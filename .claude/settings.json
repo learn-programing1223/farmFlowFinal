@@ -1,0 +1,9 @@
+{
+  "project_name": "FarmFlow",
+  "description": "Plant disease detection with uncertainty-based unknown detection",
+  "context_files": [
+    "CLAUDE.md",
+    "UNKNOWN_DETECTION_STRATEGY.md",
+    "CONSTRAINTS.md"
+  ]
+}

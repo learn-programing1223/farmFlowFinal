@@ -1,0 +1,82 @@
+# FarmFlow Configuration
+
+project:
+  name: FarmFlow
+  version: 0.1.0
+  description: Plant disease detection with 1-2 second inference
+
+# Model Configuration
+models:
+  tier1:
+    name: EfficientFormer-L7
+    params: 10M
+    inference_ms: 7
+    accuracy_target: 0.95
+    
+  tier2:
+    name: EfficientNet-B4
+    params: 19M
+    inference_ms: 700
+    accuracy_target: 0.9991
+    
+  tier3:
+    name: Hybrid-CNN-ViT-Ensemble
+    params: 50M
+    inference_ms: 1500
+    accuracy_target: 0.999
+
+# Preprocessing Configuration
+preprocessing:
+  # Resolution strategy
+  target_resolution: [384, 384]  # Optimal
+  max_resolution: [512, 512]     # Maximum accuracy
+  
+  # Pipeline components
+  use_lassr: true                # 21% accuracy gain
+  use_segmentation: true          # 30-40% gain
+  use_cyclegan: true              # Prevents field accuracy drop
+  
+  # Timing budget (ms)
+  lassr_time: 300
+  segmentation_time: 400
+  illumination_time: 150
+  total_budget: 600
+
+# Training Configuration
+training:
+  num_classes: 7  # 6 diseases + Healthy
+
+  
+validation:
+  ood_samples: 2000  # For testing unknown detection thresholds
+  unknown_precision_target: 0.94
+  unknown_recall_target: 0.91
+  
+uncertainty:
+  confidence_threshold: 0.70
+  entropy_threshold: 0.5
+  mc_dropout_iterations: 30
+    
+  augmentation:
+    use_cyclegan: true
+    synthetic_samples: 10000
+    
+  optimization:
+    learning_rate: 1e-4
+    weight_decay: 1e-5
+    scheduler: cosine
+
+# iOS Deployment
+deployment:
+  quantization: float16  # NOT int8
+  pruning_sparsity: 0.25
+  target_size_mb: 52
+  memory_limit_mb: 300
+
+# Performance Targets (from research)
+targets:
+  lab_accuracy: 0.992
+  field_accuracy: 0.85
+  unknown_precision: 0.94
+  unknown_recall: 0.91
+  inference_ms: 950

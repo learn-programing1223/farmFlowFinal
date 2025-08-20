@@ -1,0 +1,35 @@
+# Core ML Development
+torch>=2.0.0                # PyTorch framework
+torchvision>=0.15.0        # Vision utilities
+timm>=0.9.0                # CRITICAL: For EfficientNet, EfficientFormer
+
+# Image Processing
+opencv-python>=4.8.0       # Core image operations
+pillow>=10.0.0            # Image I/O
+pillow-heif>=0.13.0       # CRITICAL: iPhone HEIC support
+scikit-image>=0.21.0      # Advanced image processing
+
+# Machine Learning
+scikit-learn>=1.3.0       # Group-aware splitting, metrics
+numpy>=1.24.0             # Numerical operations
+pandas>=2.0.0             # Data management
+
+# Augmentation & Domain Adaptation
+albumentations>=1.3.0     # Augmentation pipeline
+
+# iOS Deployment
+coremltools>=7.0          # CRITICAL: PyTorch to Core ML
+
+# Experiment Tracking
+wandb>=0.15.0             # Weights & Biases (optional)
+tensorboard>=2.14.0       # TensorBoard (optional)
+
+# Testing
+pytest>=7.4.0             # Testing framework
+pytest-cov>=4.1.0         # Coverage reports
+
+# Development
+black>=23.0.0             # Code formatting
+pylint>=2.17.0            # Linting
+ipython>=8.14.0           # Interactive development
+jupyter>=1.0.0            # Notebooks for experimentation
