@@ -13,6 +13,11 @@ import logging
 from .lassr import LASSRProcessor
 from .lassr_utils import detect_disease_regions, apply_clahe, correct_exposure
 from .illumination.retinex_illumination import RetinexIllumination
+from .illumination.extreme_conditions import ExtremeLightingHandler
+from .illumination.local_adaptive import LocalAdaptiveProcessor
+from .illumination.shadow_highlight import ShadowHighlightRecovery
+from .illumination.edge_cases import EdgeCaseHandler
+from .heic_handler import HEICProcessor
 
 
 # Configure logging
@@ -40,6 +45,7 @@ class PreprocessingPipeline:
                  enable_lassr: bool = True,
                  enable_segmentation: bool = True,
                  enable_illumination: bool = True,
+                 enable_advanced_illumination: bool = True,
                  device: str = 'auto'):
         """
         Initialize preprocessing pipeline
@@ -48,11 +54,13 @@ class PreprocessingPipeline:
             enable_lassr: Whether to use LASSR super-resolution
             enable_segmentation: Whether to use U-Net segmentation
             enable_illumination: Whether to use illumination normalization
+            enable_advanced_illumination: Whether to use Day 3 advanced components
             device: 'cuda', 'cpu', or 'auto'
         """
         self.enable_lassr = enable_lassr
         self.enable_segmentation = enable_segmentation
         self.enable_illumination = enable_illumination
+        self.enable_advanced_illumination = enable_advanced_illumination
         
         # Initialize LASSR if enabled
         if enable_lassr:
@@ -69,6 +77,20 @@ class PreprocessingPipeline:
             self.illumination = RetinexIllumination(clahe_clip_limit=3.0)
         else:
             self.illumination = None
+        
+        # Initialize Day 3 advanced components
+        if enable_advanced_illumination:
+            self.extreme_handler = ExtremeLightingHandler()
+            self.local_adaptive = LocalAdaptiveProcessor()
+            self.shadow_highlight = ShadowHighlightRecovery()
+            self.edge_handler = EdgeCaseHandler()
+            self.heic_processor = HEICProcessor()
+        else:
+            self.extreme_handler = None
+            self.local_adaptive = None
+            self.shadow_highlight = None
+            self.edge_handler = None
+            self.heic_processor = None
         
         # Placeholder for segmentation (to be implemented)
         self.segmentation = None  # Will be U-Net
@@ -136,6 +158,35 @@ class PreprocessingPipeline:
             timings['illumination'] = (time.time() - t0) * 1000
             intermediates['illumination'] = image.copy()
             logger.info(f"Illumination normalization in {timings['illumination']:.1f}ms")
+        
+        # Step 3b: Advanced Illumination (Day 3 enhancements) - if needed
+        if self.enable_advanced_illumination and self.extreme_handler:
+            # Check if extreme conditions exist
+            severity = self.extreme_handler.analyze_lighting_severity(image)
+            
+            if severity['is_extreme']:
+                t0 = time.time()
+                
+                # Apply extreme lighting handler
+                image = self.extreme_handler.process(image)
+                
+                # Apply local adaptive if very extreme
+                if severity['dynamic_range'] > 200 and self.local_adaptive:
+                    image = self.local_adaptive.process(image)
+                
+                # Apply shadow/highlight recovery
+                if self.shadow_highlight and (severity['has_specular'] or severity['has_deep_shadows']):
+                    image = self.shadow_highlight.process(image)
+                
+                timings['advanced_illumination'] = (time.time() - t0) * 1000
+                intermediates['advanced_illumination'] = image.copy()
+                logger.info(f"Advanced illumination in {timings['advanced_illumination']:.1f}ms")
+            
+            # Handle edge cases
+            processed, edge_info = self.edge_handler.handle_edge_cases(image)
+            if edge_info['severity'] != 'none':
+                image = processed
+                logger.info(f"Handled edge cases: {edge_info['severity']}")
         
         # Step 4: Segmentation (300-500ms) - Placeholder
         if self.enable_segmentation and self.segmentation is not None:
@@ -365,6 +416,35 @@ def create_default_pipeline() -> PreprocessingPipeline:
         enable_illumination=True,
         device='auto'
     )
+
+
+def process_iphone_image(image_path: str,
+                        pipeline: Optional[PreprocessingPipeline] = None) -> Tuple[np.ndarray, Dict]:
+    """
+    Process iPhone HEIC image with metadata-aware processing
+    
+    Args:
+        image_path: Path to HEIC/HEIF image
+        pipeline: Optional pipeline instance
+        
+    Returns:
+        Tuple of (processed_image, metadata)
+    """
+    if pipeline is None:
+        pipeline = create_default_pipeline()
+    
+    # Load HEIC with metadata
+    if pipeline.heic_processor:
+        image, metadata = pipeline.heic_processor.process(image_path)
+        
+        # Process with pipeline
+        processed = pipeline.process(image, target_size=(384, 384))
+        
+        return processed, metadata
+    else:
+        # Fallback to regular processing
+        processed = pipeline.process(image_path, target_size=(384, 384))
+        return processed, {}
 
 
 def process_for_disease_detection(image_path: str,
