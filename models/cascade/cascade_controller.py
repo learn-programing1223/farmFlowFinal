@@ -46,8 +46,9 @@ class ModelCascadeController:
         self.tier2 = None
         if enable_tier2:
             try:
-                # Will implement EfficientNet-B4 next
-                logger.info("Tier 2 placeholder - EfficientNet-B4 to be implemented")
+                from models.architectures.efficientnet import EfficientNetTier2
+                self.tier2 = EfficientNetTier2(device=device, use_pretrained=True)
+                logger.info("Tier 2 (EfficientNet-B4) initialized with pretrained weights")
             except Exception as e:
                 logger.warning(f"Tier 2 initialization failed: {e}")
                 self.enable_tier2 = False
@@ -144,8 +145,8 @@ class ModelCascadeController:
         if self.enable_tier2 and (starting_tier <= 2 or 
                                   (starting_tier == 1 and tier1_result.get('should_escalate', False))):
             
-            # Placeholder for Tier 2 (will implement EfficientNet-B4)
-            tier2_result = self.mock_tier2_inference(image)
+            # Run actual Tier 2 inference
+            tier2_result = self.run_tier2_inference(image)
             cascade_path.append('tier2')
             
             # Check if Tier 2 is confident enough
@@ -282,19 +283,34 @@ class ModelCascadeController:
             'error': 'Classification failed'
         }
     
-    def mock_tier2_inference(self, image: np.ndarray) -> Dict:
-        """Placeholder for Tier 2 inference"""
-        # Simulate Tier 2 processing time
-        time.sleep(0.6)  # 600ms
+    def run_tier2_inference(self, image: np.ndarray) -> Dict:
+        """Run actual Tier 2 inference using EfficientNet-B4"""
+        if self.tier2 is None:
+            # Fallback if Tier 2 not initialized
+            return {
+                'tier': 2,
+                'class': 'Unknown',
+                'confidence': 0.0,
+                'probability': 0.0,
+                'all_probabilities': [1/6] * 6,
+                'inference_time_ms': 0,
+                'error': 'Tier 2 not initialized'
+            }
         
-        return {
-            'tier': 2,
-            'class': 'Blight',
-            'confidence': 0.92,
-            'probability': 0.92,
-            'all_probabilities': [0.02, 0.92, 0.02, 0.01, 0.01, 0.01, 0.01],
-            'inference_time_ms': 600
-        }
+        try:
+            result = self.tier2.infer(image, use_adapter=True)
+            return result
+        except Exception as e:
+            logger.error(f"Tier 2 inference failed: {e}")
+            return {
+                'tier': 2,
+                'class': 'Unknown',
+                'confidence': 0.0,
+                'probability': 0.0,
+                'all_probabilities': [1/6] * 6,
+                'inference_time_ms': 0,
+                'error': str(e)
+            }
     
     def mock_tier3_inference(self, image: np.ndarray) -> Dict:
         """Placeholder for Tier 3 inference"""

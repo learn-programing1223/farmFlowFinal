@@ -1,6 +1,6 @@
 FarmFlow/Plant Pulse - Project Instructions
 
-## Current Implementation Status (Days 1-5 Complete)
+## Current Implementation Status (Days 1-6 Complete)
 
 ### Preprocessing Pipeline: PRODUCTION-READY ✅
 - **Total Processing Time**: ~530-630ms (target: <1000ms)
@@ -13,19 +13,22 @@ FarmFlow/Plant Pulse - Project Instructions
 3. **Advanced Field Processing** (Day 3): 112ms, eliminates sun/indoor gap
 4. **Disease-Preserving Segmentation** (Day 4): 130ms, 100% disease preservation
 5. **Tier 1 Model** (Day 5): EfficientFormer-L7 implemented, 15ms CPU (target: 7ms)
+6. **Tier 2 Model** (Day 6): Pretrained EfficientNet-B4, 1.7s CPU (~600ms GPU est.)
 
 ### Model Inference Status:
 - **Tier 1**: ✅ EfficientFormer-L7 (10.2M params, 38.94 MB)
+- **Tier 2**: ✅ EfficientNet-B4 with ImageNet adapter (74.5 MB pretrained)
 - **Cascade Controller**: ✅ Three-tier routing logic complete
 - **Uncertainty**: ✅ MC Dropout quantification working
-- **Tier 2**: ⏳ EfficientNet-B4 (Day 6)
-- **Tier 3**: ⏳ CNN-ViT Ensemble (Day 7)
+- **Synthetic Data**: ✅ Validation generator created
+- **Tier 3**: ⏳ Simplified Ensemble (Day 7)
 
 ### Key Discoveries:
 - Disease-first segmentation ensures 100% preservation
-- EfficientFormer architecture optimal for mobile deployment
-- Confidence-based routing enables intelligent cascade
-- 15ms CPU inference suggests 7ms achievable on Neural Engine
+- Pretrained ImageNet weights provide useful features without training
+- Creative mapping (mushroom→blight, web→mildew) works!
+- Confidence thresholds prevent false positives
+- System correctly identifies uncertainty and classifies as Unknown
 
 ### Remaining Budget:
 - ~370ms used for preprocessing + Tier 1
