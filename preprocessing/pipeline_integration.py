@@ -92,8 +92,12 @@ class PreprocessingPipeline:
             self.edge_handler = None
             self.heic_processor = None
         
-        # Placeholder for segmentation (to be implemented)
-        self.segmentation = None  # Will be U-Net
+        # Initialize segmentation if enabled
+        if enable_segmentation:
+            from .segmentation.cascade_controller import SegmentationCascade
+            self.segmentation = SegmentationCascade()
+        else:
+            self.segmentation = None
         
         # Pipeline statistics
         self.stats = {
@@ -188,12 +192,17 @@ class PreprocessingPipeline:
                 image = processed
                 logger.info(f"Handled edge cases: {edge_info['severity']}")
         
-        # Step 4: Segmentation (300-500ms) - Placeholder
+        # Step 4: Segmentation (300-500ms)
         if self.enable_segmentation and self.segmentation is not None:
             t0 = time.time()
-            # TODO: Implement U-Net segmentation
-            # image = self.segmentation.process(image)
+            # Segment the image
+            mask, regions = self.segmentation.segment(image)
+            # Apply mask to the image
+            mask_3ch = cv2.cvtColor(mask, cv2.COLOR_GRAY2RGB) / 255.0
+            image = (image * mask_3ch).astype(np.uint8)
             timings['segmentation'] = (time.time() - t0) * 1000
+            intermediates['segmented'] = image.copy()
+            logger.info(f"Segmentation completed in {timings['segmentation']:.1f}ms")
         
         # Step 5: Color Space Fusion (50-100ms)
         t0 = time.time()

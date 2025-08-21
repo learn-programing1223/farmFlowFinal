@@ -47,10 +47,11 @@ class DiseaseRegionDetector:
     def adjust_thresholds(self):
         """Adjust detection thresholds based on sensitivity"""
         # Base thresholds (at sensitivity = 0.5)
-        base_brown_threshold = 0.05
-        base_yellow_threshold = 0.05
-        base_white_threshold = 0.05
-        base_texture_threshold = 20
+        # Higher thresholds = more selective (less false positives)
+        base_brown_threshold = 0.25  # Require 25% coverage to trigger
+        base_yellow_threshold = 0.20  # Require 20% coverage
+        base_white_threshold = 0.30  # Require 30% coverage
+        base_texture_threshold = 100  # Much higher for less sensitivity
         
         # Adjust based on sensitivity
         factor = 2.0 - self.sensitivity  # Higher sensitivity = lower thresholds
@@ -88,38 +89,50 @@ class DiseaseRegionDetector:
             'total_coverage': 0
         }
         
+        # Create healthy mask to exclude from detection
+        healthy_mask = self.create_healthy_mask(image)
+        
         # 1. Detect brown/necrotic regions (blight, bacterial spot)
         brown_mask = self.detect_brown_necrotic(image)
-        if np.any(brown_mask):
+        # Exclude healthy regions
+        brown_mask = cv2.bitwise_and(brown_mask, cv2.bitwise_not(healthy_mask))
+        if np.sum(brown_mask > 0) > 100:  # Minimum pixel count
             combined_mask = cv2.bitwise_or(combined_mask, brown_mask)
             info['brown_regions'] = True
         
         # 2. Detect yellow/chlorotic areas (virus, deficiency)
         yellow_mask = self.detect_yellow_chlorotic(image)
-        if np.any(yellow_mask):
+        # Exclude healthy regions
+        yellow_mask = cv2.bitwise_and(yellow_mask, cv2.bitwise_not(healthy_mask))
+        if np.sum(yellow_mask > 0) > 100:  # Minimum pixel count
             combined_mask = cv2.bitwise_or(combined_mask, yellow_mask)
             info['yellow_regions'] = True
         
         # 3. Detect white/gray patches (powdery mildew)
         white_mask = self.detect_white_gray(image)
-        if np.any(white_mask):
+        # Exclude healthy regions
+        white_mask = cv2.bitwise_and(white_mask, cv2.bitwise_not(healthy_mask))
+        if np.sum(white_mask > 0) > 100:  # Minimum pixel count
             combined_mask = cv2.bitwise_or(combined_mask, white_mask)
             info['white_regions'] = True
         
         # 4. Detect dark spots and lesions
         dark_mask = self.detect_dark_spots(image)
-        if np.any(dark_mask):
+        # Exclude healthy regions from dark spots too
+        dark_mask = cv2.bitwise_and(dark_mask, cv2.bitwise_not(healthy_mask))
+        if np.sum(dark_mask > 0) > 100:  # Minimum pixel count
             combined_mask = cv2.bitwise_or(combined_mask, dark_mask)
             info['dark_spots'] = True
         
-        # 5. Detect texture anomalies
-        texture_mask = self.detect_texture_anomalies(image)
-        if np.any(texture_mask):
-            combined_mask = cv2.bitwise_or(combined_mask, texture_mask)
-            info['texture_anomalies'] = True
+        # 5. Skip texture anomalies for now - too sensitive
+        # texture_mask = self.detect_texture_anomalies(image)
+        info['texture_anomalies'] = False
         
         # 6. Apply morphological operations to clean up
         combined_mask = self.refine_mask(combined_mask)
+        
+        # 7. Remove small isolated regions (noise)
+        combined_mask = self.remove_small_regions(combined_mask, min_area=50)
         
         # Calculate coverage
         info['total_coverage'] = np.sum(combined_mask > 0) / (h * w)
@@ -131,6 +144,63 @@ class DiseaseRegionDetector:
         logger.debug(f"Disease detection in {elapsed_ms:.1f}ms, coverage: {info['total_coverage']:.2%}")
         
         return combined_mask, info
+    
+    def create_healthy_mask(self, image: np.ndarray) -> np.ndarray:
+        """
+        Create mask of healthy green tissue to exclude from disease detection
+        
+        Args:
+            image: RGB image
+            
+        Returns:
+            Binary mask of healthy regions (255 = healthy, 0 = not healthy)
+        """
+        hsv = cv2.cvtColor(image, cv2.COLOR_RGB2HSV)
+        
+        # Healthy green range (based on actual synthetic leaf stats: Hue 29-86)
+        # Primary healthy green
+        lower_green = np.array([40, 50, 70])
+        upper_green = np.array([85, 255, 255])
+        healthy_mask = cv2.inRange(hsv, lower_green, upper_green)
+        
+        # Also include yellow-greens that are still healthy
+        lower_yellow_green = np.array([30, 40, 60])
+        upper_yellow_green = np.array([45, 200, 200])
+        dark_green_mask = cv2.inRange(hsv, lower_yellow_green, upper_yellow_green)
+        
+        # Combine healthy masks
+        healthy_combined = cv2.bitwise_or(healthy_mask, dark_green_mask)
+        
+        # Dilate slightly to include boundaries
+        kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (5, 5))
+        healthy_combined = cv2.dilate(healthy_combined, kernel, iterations=1)
+        
+        return healthy_combined
+    
+    def remove_small_regions(self, mask: np.ndarray, min_area: int = 50) -> np.ndarray:
+        """
+        Remove small isolated regions from mask (noise removal)
+        
+        Args:
+            mask: Binary mask
+            min_area: Minimum contour area to keep
+            
+        Returns:
+            Cleaned mask
+        """
+        # Find contours
+        contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        
+        # Create clean mask
+        clean_mask = np.zeros_like(mask)
+        
+        # Keep only contours above minimum area
+        for contour in contours:
+            area = cv2.contourArea(contour)
+            if area >= min_area:
+                cv2.drawContours(clean_mask, [contour], -1, 255, -1)
+        
+        return clean_mask
     
     def detect_brown_necrotic(self, image: np.ndarray) -> np.ndarray:
         """
@@ -144,39 +214,27 @@ class DiseaseRegionDetector:
         """
         hsv = cv2.cvtColor(image, cv2.COLOR_RGB2HSV)
         
-        # Multiple brown ranges for comprehensive detection
+        # More selective brown ranges for true disease
         masks = []
         
-        # Dark brown (necrotic tissue)
-        lower1 = np.array([0, 30, 20])
-        upper1 = np.array([15, 255, 100])
+        # Dark spots with low value (true necrosis)
+        # Looking for Hue 0-25 with low Value (<60)
+        lower1 = np.array([0, 50, 10])
+        upper1 = np.array([25, 255, 60])
         masks.append(cv2.inRange(hsv, lower1, upper1))
         
-        # Medium brown (advancing disease)
-        lower2 = np.array([10, 40, 40])
-        upper2 = np.array([20, 200, 150])
+        # Brown diseased areas (not green)
+        lower2 = np.array([10, 60, 20])
+        upper2 = np.array([20, 200, 80])
         masks.append(cv2.inRange(hsv, lower2, upper2))
-        
-        # Light brown (early disease)
-        lower3 = np.array([15, 30, 60])
-        upper3 = np.array([25, 150, 180])
-        masks.append(cv2.inRange(hsv, lower3, upper3))
-        
-        # Reddish-brown (some blights)
-        lower4 = np.array([0, 50, 50])
-        upper4 = np.array([10, 200, 150])
-        masks.append(cv2.inRange(hsv, lower4, upper4))
         
         # Combine all brown masks
         brown_mask = np.zeros_like(masks[0])
         for mask in masks:
             brown_mask = cv2.bitwise_or(brown_mask, mask)
         
-        # Check if significant brown regions exist
-        coverage = np.sum(brown_mask > 0) / brown_mask.size
-        if coverage < self.brown_threshold:
-            return np.zeros_like(brown_mask)
-        
+        # Return the actual detected regions (no threshold check here)
+        # The threshold should be used differently
         return brown_mask
     
     def detect_yellow_chlorotic(self, image: np.ndarray) -> np.ndarray:
@@ -193,25 +251,18 @@ class DiseaseRegionDetector:
         
         masks = []
         
-        # Bright yellow (virus symptoms)
-        lower1 = np.array([20, 40, 100])
-        upper1 = np.array([35, 255, 255])
+        # True yellow (virus symptoms, not green)
+        lower1 = np.array([22, 80, 150])
+        upper1 = np.array([32, 255, 255])
         masks.append(cv2.inRange(hsv, lower1, upper1))
         
-        # Pale yellow (chlorosis)
-        lower2 = np.array([25, 20, 120])
-        upper2 = np.array([40, 100, 255])
+        # Pale yellow/chlorotic (nutrient deficiency)
+        lower2 = np.array([25, 40, 180])
+        upper2 = np.array([35, 120, 255])
         masks.append(cv2.inRange(hsv, lower2, upper2))
         
-        # Yellow-green (early chlorosis)
-        lower3 = np.array([35, 30, 80])
-        upper3 = np.array([50, 150, 200])
-        masks.append(cv2.inRange(hsv, lower3, upper3))
-        
-        # Orange-yellow (some diseases)
-        lower4 = np.array([15, 50, 100])
-        upper4 = np.array([25, 255, 255])
-        masks.append(cv2.inRange(hsv, lower4, upper4))
+        # NOTE: Removed yellow-green range as it catches healthy leaves
+        # NOTE: Removed orange overlap with brown detection
         
         # Combine yellow masks
         yellow_mask = np.zeros_like(masks[0])
@@ -222,11 +273,7 @@ class DiseaseRegionDetector:
         rgb_ratio_mask = self.detect_low_chlorophyll(image)
         yellow_mask = cv2.bitwise_or(yellow_mask, rgb_ratio_mask)
         
-        # Check significance
-        coverage = np.sum(yellow_mask > 0) / yellow_mask.size
-        if coverage < self.yellow_threshold:
-            return np.zeros_like(yellow_mask)
-        
+        # Return the actual detected regions
         return yellow_mask
     
     def detect_white_gray(self, image: np.ndarray) -> np.ndarray:
@@ -243,19 +290,19 @@ class DiseaseRegionDetector:
         
         masks = []
         
-        # White patches (powdery mildew)
-        lower1 = np.array([0, 0, 180])
-        upper1 = np.array([180, 40, 255])
+        # True white patches (powdery mildew)
+        lower1 = np.array([0, 0, 200])  # Higher value threshold
+        upper1 = np.array([180, 30, 255])  # Lower saturation for true white
         masks.append(cv2.inRange(hsv, lower1, upper1))
         
-        # Light gray (dusty mildew)
-        lower2 = np.array([0, 0, 120])
-        upper2 = np.array([180, 30, 200])
+        # Light gray powdery coating
+        lower2 = np.array([0, 0, 160])
+        upper2 = np.array([180, 25, 210])
         masks.append(cv2.inRange(hsv, lower2, upper2))
         
-        # Off-white with any hue
-        lower3 = np.array([0, 0, 200])
-        upper3 = np.array([180, 20, 255])
+        # Very white patches (severe mildew)
+        lower3 = np.array([0, 0, 220])
+        upper3 = np.array([180, 15, 255])
         masks.append(cv2.inRange(hsv, lower3, upper3))
         
         # Combine white masks
@@ -267,11 +314,7 @@ class DiseaseRegionDetector:
         texture_check = self.detect_powdery_texture(image)
         white_mask = cv2.bitwise_and(white_mask, texture_check)
         
-        # Check significance
-        coverage = np.sum(white_mask > 0) / white_mask.size
-        if coverage < self.white_threshold:
-            return np.zeros_like(white_mask)
-        
+        # Return the actual detected regions
         return white_mask
     
     def detect_dark_spots(self, image: np.ndarray) -> np.ndarray:
@@ -327,8 +370,15 @@ class DiseaseRegionDetector:
         sq_mean = cv2.blur(gray**2, (kernel_size, kernel_size))
         variance = sq_mean - mean**2
         
-        # High variance indicates texture anomaly
-        _, texture_mask = cv2.threshold(variance, self.texture_threshold, 255, cv2.THRESH_BINARY)
+        # Use adaptive threshold based on image statistics
+        mean_variance = np.mean(variance)
+        std_variance = np.std(variance)
+        
+        # Only flag extreme anomalies (2 standard deviations above mean)
+        adaptive_threshold = mean_variance + 2 * std_variance
+        adaptive_threshold = max(adaptive_threshold, self.texture_threshold)
+        
+        _, texture_mask = cv2.threshold(variance, adaptive_threshold, 255, cv2.THRESH_BINARY)
         texture_mask = texture_mask.astype(np.uint8)
         
         # Also check for mottled patterns (mosaic virus)
@@ -352,13 +402,13 @@ class DiseaseRegionDetector:
         # Calculate green dominance
         r, g, b = image[:, :, 0], image[:, :, 1], image[:, :, 2]
         
-        # Low chlorophyll: green is not dominant
+        # Low chlorophyll: green is very low (not just non-dominant)
         green_dominance = (g.astype(np.float32) / (r + g + b + 1e-6))
-        low_chlorophyll = green_dominance < 0.35
+        low_chlorophyll = green_dominance < 0.28  # More selective
         
-        # Also check red/green ratio
+        # Also check red/green ratio (higher threshold)
         rg_ratio = r.astype(np.float32) / (g + 1e-6)
-        high_rg = rg_ratio > 0.9
+        high_rg = rg_ratio > 1.2  # More selective
         
         # Combine conditions
         mask = np.logical_or(low_chlorophyll, high_rg)
