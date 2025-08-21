@@ -1,0 +1,1418 @@
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\33e59828-c8c1-40f8-a684-dc16fdfcd280___Com.G_SpM_FL 9510.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d568ebda-a7c9-43dc-8afe-41778448d54a___Crnl_L.Mold 6696_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d2c889b0-0223-4e09-9d9f-cdf019b65120___Crnl_L.Mold 8631_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ecf28797-b8ea-4ea9-a665-72db94f13ba8___Com.G_SpM_FL 1678.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\65986ff3-5848-4473-a7b7-b79e07d79fd7___Crnl_L.Mold 7040_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d58b9f9a-d62c-44c4-8a76-dba4ccc7fca8___Com.G_SpM_FL 9562.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\0ed11606-167f-4951-9a07-ffaa7e2aa88a___Crnl_L.Mold 6831.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\51189dab-468d-4304-8368-d0e4e3247194___Crnl_L.Mold 6667_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f718db12-7a16-437d-905c-f804e21383c8___Com.G_SpM_FL 1353.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\61563795-d070-46c1-99ad-2ed3cde171f7___Com.G_SpM_FL 9556.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fe00923d-7acb-4a3b-9104-e2d429181e5d___Crnl_L.Mold 6822_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\47bc86dc-bf8a-4d57-8093-376ead20ad7d___Com.G_SpM_FL 1272.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e59a2933-7869-4e49-8ed5-1663ca5200d1___Crnl_L.Mold 6785.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ae6c81b2-412e-417e-8448-e18214edc049___Crnl_L.Mold 6895.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b07afdfc-feee-4d5a-9504-7c0c6ae773a0___Crnl_L.Mold 9048_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\bf493cf8-d509-4296-9f72-f43e9dadfafb___Com.G_SpM_FL 1616.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bdc4e19c-87fc-4d84-8de7-a8663aed37f7___Crnl_L.Mold 8741_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7115a5d7-3157-4183-bda2-8d0b43f50276___Crnl_L.Mold 8898.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\90f6e771-bfb7-4e54-aa8c-6e295af7dc6e___Crnl_L.Mold 8761_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f48883d4-b37c-46b9-8e3d-a3cb04ff6067___Crnl_L.Mold 6641.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\755296b4-fa21-4ec5-b912-bd85b2897a01___Crnl_L.Mold 8630.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\085cdef7-8892-4873-a0e7-5715082762d0___Com.G_SpM_FL 8650.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cbcf61e4-9a69-4483-9252-ae649102fb63___Crnl_L.Mold 6858.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d633dfc9-74f2-4fbc-b540-3b87a53807d0___Crnl_L.Mold 9106.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\65a8115c-7646-4226-adbb-c819baac010a___Crnl_L.Mold 6842.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c02f3863-3012-4f3a-873e-8003d73a54f9___Crnl_L.Mold 6520_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\99d2b2e1-b3e6-4689-ad9a-209cdfdf4084___Crnl_L.Mold 7025_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d9fdbaad-4cf2-4214-bd39-5f640f517260___Crnl_L.Mold 7051_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\03e18a00-ffbd-4863-a0c5-7c597c09b025___Com.G_SpM_FL 8798_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\081a628a-9293-4aac-bde6-c117085132f6___Com.G_SpM_FL 9037.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4136897a-cf67-4e88-b588-60585499820a___Com.G_SpM_FL 1510.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\db0e6ad7-58db-478e-9b17-37bb603363d1___Crnl_L.Mold 8863_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c92cbefd-7687-4a82-a07e-95cf5990c1d9___Crnl_L.Mold 8698_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a961a718-36c3-4050-a5ef-eea64ae152ce___Crnl_L.Mold 9058.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\27074def-852f-45c0-8a45-006f8f7108c3___Com.G_SpM_FL 9633.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\460faa12-8c7a-458b-a6a1-90c71cc73fad___Crnl_L.Mold 9102_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ffb2d848-e46c-485c-a633-8d6137dd3dbf___Crnl_L.Mold 8735_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0a3ec09c-ccf4-49ab-bae2-f82f913aa9c8___Com.G_SpM_FL 9444.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\87a12625-8af0-43af-9169-4037ba079743___Crnl_L.Mold 9124_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3d59267d-cf74-4354-a41c-d3f79783fcfd___Com.G_SpM_FL 8667.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\0b943ada-01a9-4ce0-a607-e799394856de___Crnl_L.Mold 7008.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f80ea01a-c910-4f53-b415-9b327dc51402___Crnl_L.Mold 6804_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4c2524a6-1d2b-4a5a-b3f6-3e3b1dc587e9___Com.G_SpM_FL 8521_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a72375bd-cec2-462a-8871-19eb0b2bd2dd___Crnl_L.Mold 7139.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3d06d27e-cfea-40b4-ac55-9e0dc96f6b55___Com.G_SpM_FL 8596.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b0171eb9-e9c4-4d17-8f39-e748361fdfba___Crnl_L.Mold 8828_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d652a294-f4fe-4a9d-afb4-3aa011fe5522___Com.G_SpM_FL 8666.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\586436a4-0d4b-4874-82d4-b8708e20706c___Crnl_L.Mold 8972.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f8e698ff-5f4d-4735-ae53-1daf38c49d46___Crnl_L.Mold 6536_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f396912f-435f-4802-a756-b373d5461373___Com.G_SpM_FL 1350.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\636917d9-3ca7-43d0-9295-6b9fcf1103b0___Crnl_L.Mold 8919.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0d835caf-0069-4fa5-a022-c8cc7763189c___Com.G_SpM_FL 8917_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a95f0a82-5cad-423a-be56-8205317909e8___Crnl_L.Mold 8677.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\bcbe4259-2fbd-4cb2-b0cd-b1798b917b5c___Com.G_SpM_FL 8825.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b7cd18dd-56e0-4750-b137-8beb5c5852c6___Crnl_L.Mold 6806_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\89abe0cd-9b85-4fbe-b441-7c7431bc7c18___Crnl_L.Mold 9155.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\96ec6dc6-c3fb-4261-93ae-77d5dfaf8478___Crnl_L.Mold 8909.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4c8a4e16-7d22-4352-afa0-c5a2a4bf5983___Com.G_SpM_FL 1187_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\71e1329b-568e-4d56-8aec-c6d1909aa7c1___Com.G_SpM_FL 1294.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b9fa2f53-8c9f-4895-8ca8-9f8de785b74f___Com.G_SpM_FL 8682.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\84acf9e0-37b0-4008-bf11-0063fec9ff05___Com.G_SpM_FL 8766.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cf7d8916-0dc4-4636-85cf-7552c87e13bb___Crnl_L.Mold 9069.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4d9645fa-c250-4224-b730-21710bf11596___Com.G_SpM_FL 8755_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0ad80523-3f34-41ae-aec8-e676546ddde5___Com.G_SpM_FL 8489_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\338b9a2f-bdba-40e5-a861-b354fbf3e468___Com.G_SpM_FL 8630.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ab795780-b8d3-485d-a60c-0a8fd091af16___Com.G_SpM_FL 1257.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b4411087-6724-4eed-a40b-dc5187727d16___Com.G_SpM_FL 1606.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\68399b92-e31b-47d1-a0c0-00bb1cd1d586___Com.G_SpM_FL 1212.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\77b74ab1-43d3-4d49-b901-e6e19ee0f200___Crnl_L.Mold 9063_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0a2b122a-0f23-4c92-8b7a-21b274dffbe5___Com.G_SpM_FL 9350.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\c044173c-b055-4014-91e5-d827a1a65851___Com.G_SpM_FL 9395.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bc3a2748-382a-4eff-99cb-d437b5cf8105___Crnl_L.Mold 6934_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\57c860fb-5102-433d-a7ec-09e540fb4866___Com.G_SpM_FL 1688.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\09dce947-bb58-46cc-bd33-5a5e75ee07f4___Com.G_SpM_FL 9019.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\48f87aed-cace-4b4f-bc57-1b6b2a6c1e9b___Crnl_L.Mold 6810_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a9bfbf7a-3669-4b5e-a5c7-ac8fcd03fd48___Crnl_L.Mold 7094_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1b184d8e-69bf-4af8-bdb5-22f477d587c0___Com.G_SpM_FL 8993.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\6875b9cf-a558-4b8f-9c85-bef8825c2a7a___Com.G_SpM_FL 1234.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\381feee3-bdda-4e1a-82f6-1ddd62152b63___Com.G_SpM_FL 1256.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d3046708-324c-48cc-acff-28c8020485d5___Crnl_L.Mold 9053_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\673bfa4d-54b5-4fee-86d3-1ada11adca40___Com.G_SpM_FL 9498.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\937ddfca-ced9-419b-b25d-314ec99847f7___Crnl_L.Mold 8726_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\3868a159-b5df-49d2-a689-1181ee1007dc___Crnl_L.Mold 8720_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\546f348a-359a-4cff-8cdd-c87ecb1cec95___Crnl_L.Mold 6873_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\84d73db4-4b31-4b19-b945-aa371c588724___Crnl_L.Mold 9001_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2c0e3e42-3856-46e3-b12f-57719eeb5ef4___Com.G_SpM_FL 9598_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\87c76d05-d959-4fe6-ba9e-a874c88f9a09___Crnl_L.Mold 6906.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5b92430f-86a7-4845-b0eb-eb4df61797e8___Com.G_SpM_FL 8890.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\355b3ad0-1d3b-49ea-80c8-3254a06a660c___Crnl_L.Mold 8968_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\83cb3d8b-8d4b-4669-8331-0d6be2a6176f___Com.G_SpM_FL 8537.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b86c1e33-522c-44b2-a052-a0660a3ce557___Com.G_SpM_FL 9008.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0eee4e0a-7952-4973-96c9-2c441f864752___Com.G_SpM_FL 8802_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9e1cfd52-d7f1-46a6-a88e-9fafe1f82b69___Com.G_SpM_FL 1283.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f12a4cdc-3c47-4f22-9f03-188015dedb07___Crnl_L.Mold 8913.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ceece521-8e6b-4f7b-b4bb-54369494e7a3___Crnl_L.Mold 6931.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f0e71c5c-4a0b-4b97-88db-19438a52d9b1___Crnl_L.Mold 8751_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b69f0ec4-240b-47ae-8cd7-0a3bec246bf1___Crnl_L.Mold 8722_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7d097c24-0e8a-44c2-8ef5-722c26ad718f___Crnl_L.Mold 8964.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\dbbb1200-16e8-4842-acbf-57ccd1afc2dc___Crnl_L.Mold 7035_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\790cfb1d-4926-46bb-bd50-b750e823c72a___Crnl_L.Mold 7130_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\802b8083-7628-4974-8d38-ffe2d82ad62f___Crnl_L.Mold 8997_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bcf274e3-d797-4fa5-88c8-e513266e78da___Crnl_L.Mold 7036.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4f44e677-ae55-48f2-a439-11d162fcfe3e___Com.G_SpM_FL 8599.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1e0febc9-f544-45bb-9a39-69722d288393___Com.G_SpM_FL 1578_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bf97c963-b3cd-480a-be10-b8b2c539973f___Crnl_L.Mold 6982.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5bad9c7d-db56-488a-9f62-6fe285b511a3___Com.G_SpM_FL 1439.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\780aabe7-0d54-4849-80b8-773552ca4b45___Crnl_L.Mold 8824.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\33f539bd-6537-4a8f-93da-8988cb092c56___Com.G_SpM_FL 1258.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7a01961e-dd28-460b-928c-a656a8a6d018___Com.G_SpM_FL 8569.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\41a6e837-7822-447c-b887-3be149d58322___Crnl_L.Mold 7100_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\872c2185-148d-486c-92e8-2a3ad418f609___Crnl_L.Mold 7146_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\69317010-b2b4-4a64-837e-94f8302fd508___Crnl_L.Mold 9149_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\150f6844-796d-4960-b42b-629f25806bfb___Crnl_L.Mold 7096_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f12f4153-59e2-4e95-9ff2-fa3b7542ab2e___Com.G_SpM_FL 1427.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e4bc3bc6-794e-43c4-8938-e56ed74b5542___Crnl_L.Mold 6613_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e38c743b-d76a-4986-8992-9a1c4644abdf___Crnl_L.Mold 6511_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\09e0ad88-2008-4558-b870-8d06b82a7203___Crnl_L.Mold 6756.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\93608d6e-7511-4388-88c1-ef45b754e9c2___Crnl_L.Mold 6580_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\5461b103-1d68-4a3c-a083-cd31a3718d2e___Crnl_L.Mold 6890_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\808fed44-acfc-492e-b295-9711805936b1___Crnl_L.Mold 8678_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3e2da864-f81f-4cd7-8152-744782a3c7c2___Com.G_SpM_FL 8997_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fd686c68-9a4a-4d11-98fa-7c612aff9fd4___Crnl_L.Mold 6974.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4cab6361-aae6-4bc4-bd5b-d206d4e7e942___Com.G_SpM_FL 1579.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2db5ec80-9a7d-4963-9aaa-24014848a087___Com.G_SpM_FL 8967_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d159f020-15f7-45c5-9808-a8ef0e5914f5___Crnl_L.Mold 9105.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1efb352f-b742-4654-a61d-bd9d8f38049b___Com.G_SpM_FL 8638.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3e2da864-f81f-4cd7-8152-744782a3c7c2___Com.G_SpM_FL 8997_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\4505fb9f-e46f-4d8f-b63e-b7d389811dab___Crnl_L.Mold 6907.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\63384c82-1527-482a-93e4-51841ad0506c___Com.G_SpM_FL 1373.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\698e12a2-2a49-43aa-a47a-21420001e5ef___Com.G_SpM_FL 1356.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7f2fae79-4301-4354-89b6-4102b5b84312___Com.G_SpM_FL 9315.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a835e550-89cc-4662-b065-d00d5a9eefd3___Crnl_L.Mold 6651_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fec6ddb1-599d-4de0-905c-c4e526021314___Crnl_L.Mold 8895.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\50e1906e-24da-493d-88b0-3110e778a26a___Crnl_L.Mold 7135.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\56779b93-da91-4f00-b562-ed5114e6d378___Crnl_L.Mold 6635.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\326a53b6-1d92-475a-9a30-4fc70754eacf___Com.G_SpM_FL 8883.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3ff572ac-0f2f-494a-9c64-99ae63d318ef___Com.G_SpM_FL 1242.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a37a63d6-d842-4049-b82b-f1d47c6f2f2c___Crnl_L.Mold 8646_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d9c04f45-b778-42cf-a96c-bdf559f5be25___Crnl_L.Mold 8833_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b313c827-af8b-4b98-af86-a7b07bf20dc1___Com.G_SpM_FL 9307.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f41b78aa-281c-416f-9d9b-4a5a3d9f20fc___Com.G_SpM_FL 9012.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\dc952b07-cb79-47e0-9bfe-48bda40fbbb9___Com.G_SpM_FL 9446.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\54ad9e10-f37e-40af-89ab-43ec8bcfbb55___Crnl_L.Mold 9057.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\28fc4b35-8b20-4bd0-8e41-c1ef7093ff33___Crnl_L.Mold 6755.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4c41c67d-564c-44e2-98e0-b19bc3e10c7c___Com.G_SpM_FL 8887_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b0b458de-2ce8-46a1-815f-db2e513130fc___Com.G_SpM_FL 1416.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\0425e1f8-950e-4f8f-a8cc-66809d61ef54___Crnl_L.Mold 6783_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b8ad1d10-7809-4969-8bc0-2e44a3dc3157___Crnl_L.Mold 6664_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3621f0bd-8e40-4b1b-a6d4-23651e3b2dc2___Com.G_SpM_FL 8696.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5a5bbff6-4eae-4bda-ad08-f781109979cb___Com.G_SpM_FL 1175_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\27644d9c-5518-4df3-9391-16bc2cba20f8___Com.G_SpM_FL 1741.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4f67760e-24e8-4a5d-8162-93e0ce8d93f7___Com.G_SpM_FL 1146_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e2d4c4ee-752f-4494-a046-6076bc08ecbd___Crnl_L.Mold 7178.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\80b652e5-7f1f-4806-8d9d-550ce54891ce___Crnl_L.Mold 7090.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\eeb1fcab-1278-4c23-bef4-2b54ec75f651___Crnl_L.Mold 9158_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5a6127d7-01c4-45a4-8ee9-fa61266f57e4___Com.G_SpM_FL 1574_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d0cd0d30-a825-4ddb-9df6-c767b101735c___Com.G_SpM_FL 1630.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\87e7e3be-acc9-45bf-a843-5528b1ec9484___Crnl_L.Mold 8924_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b42a5feb-c92e-4631-b077-72839cb86134___Com.G_SpM_FL 8710.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e33b960c-9d75-4de7-a310-ac39e5f326a4___Crnl_L.Mold 6689.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3f3b3e8c-9b45-4f68-ae3c-a3b3a12f69a1___Com.G_SpM_FL 1679.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\620d5eae-9420-4027-b468-48cae32e0c2f___Com.G_SpM_FL 8782.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\67001860-5fda-495c-b2fb-a036f21448f8___Crnl_L.Mold 8838_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\86a362ff-4394-411f-a0a5-5c4d87b92a64___Com.G_SpM_FL 1237.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e0837534-7480-4ba7-8f04-34f232f76008___Com.G_SpM_FL 8565.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\497e7ecf-8350-4490-9946-b6e55f90d382___Com.G_SpM_FL 1423.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d98dc8ce-cc9e-4a8c-9c8a-f5edee9493b1___Com.G_SpM_FL 1208.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f48a7999-9eaa-4403-a2a5-533d22092d46___Crnl_L.Mold 6854_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3eb2dbc2-ea12-40b3-9d38-11d5bfa97af1___Com.G_SpM_FL 9316_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\fa05ccd2-725d-4664-aaca-1c8b69d73b10___Com.G_SpM_FL 1505.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\bb240371-2ef1-4421-a638-41ba2ef45b83___Com.G_SpM_FL 1134.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\86bcc70f-66dd-40ec-8bf5-d260f58cb25d___Crnl_L.Mold 7004.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\8fd420fe-6e79-46a5-917e-4cfaca97bd5a___Com.G_SpM_FL 8900.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e848de1c-715f-4e90-b045-7b02433744f9___Com.G_SpM_FL 9044.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5a6127d7-01c4-45a4-8ee9-fa61266f57e4___Com.G_SpM_FL 1574_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e4a916fa-f59f-42cc-84a3-41d11293c73a___Crnl_L.Mold 9051_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f6a1f3ef-b8c7-4343-897e-8cffb513502a___Com.G_SpM_FL 8893.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\24b03bfc-3491-490d-9178-61c6c56c4b56___Crnl_L.Mold 9018.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\780aabe7-0d54-4849-80b8-773552ca4b45___Crnl_L.Mold 8824_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\91c943e8-a79e-4a0d-b882-f372655f571b___Crnl_L.Mold 9132_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\241287d9-30c8-4463-999c-821fd32ba894___Crnl_L.Mold 6583.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\3d232a86-283d-45ec-b5cf-99829d78afa8___Crnl_L.Mold 6550.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f9124c7e-9cfd-4b90-bc64-aadd638e896d___Crnl_L.Mold 8925_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\34771f89-a1bc-49e9-8d94-1eb402312b8d___Crnl_L.Mold 9142.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\619f232e-e49b-4ec8-bb48-552632b2c660___Crnl_L.Mold 9050_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1dd207c1-1fbe-454a-b63f-8051bb26aea8___Com.G_SpM_FL 1161.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\a90a76da-5115-4423-a699-0f476b9bc1d5___Com.G_SpM_FL 1332.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a3bcb764-2c05-44e0-a177-70d0d8294894___Crnl_L.Mold 7170_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\95a5ac3d-50d3-426c-83a6-3fd47fc8c58b___Crnl_L.Mold 6609_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3aad576c-3189-4b78-a5df-c9bac0078612___Com.G_SpM_FL 1430.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a6bf45f7-1928-4a3a-98cc-74c4b948cb4d___Crnl_L.Mold 8834.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b7a7692a-e43f-4d18-9926-da574595121d___Crnl_L.Mold 9134.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\44e7d155-8e61-4620-8442-132abc23ca58___Crnl_L.Mold 6598_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\05138150-866c-460e-a252-19d269a81d4d___Crnl_L.Mold 6745.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\eaa10d61-de43-4eb3-9008-07d2d436005d___Com.G_SpM_FL 9003.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\957e88e1-8803-4ded-a7bc-35144fc25665___Com.G_SpM_FL 9254.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\092442ed-3ad2-4195-8cd5-cc2ba74469e1___Crnl_L.Mold 6578_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e3687cbd-21d5-4560-a527-c0693c48d806___Com.G_SpM_FL 8454.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\738b2359-39ac-465b-8d8e-43dc842a280e___Crnl_L.Mold 6535.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b69f0ec4-240b-47ae-8cd7-0a3bec246bf1___Crnl_L.Mold 8722.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\da83c654-4106-45be-b410-28ae89d93e22___Crnl_L.Mold 7054_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f12f4153-59e2-4e95-9ff2-fa3b7542ab2e___Com.G_SpM_FL 1427.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\306d3e00-d180-4645-9858-b22e3a292554___Crnl_L.Mold 6627_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\534e3551-79be-4101-92ac-2996761db483___Crnl_L.Mold 6707.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\90ceddb7-9fe6-4e76-b33e-d83983cf8ef5___Crnl_L.Mold 6540.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\6e230511-861d-4ae8-8212-374417841b4c___Crnl_L.Mold 8894.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\324bf28d-7005-4845-9931-012f2a972b37___Com.G_SpM_FL 1506.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4c41c67d-564c-44e2-98e0-b19bc3e10c7c___Com.G_SpM_FL 8887.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\38393031-c7ba-4221-b435-69047e14bff5___Crnl_L.Mold 8776_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\8a247db8-8b37-48a7-8ea4-fa6fa1483e5a___Com.G_SpM_FL 8976.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5a5afa95-1fb6-477e-a24c-a6fe1cac644f___Com.G_SpM_FL 9282_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\0e5b669e-8534-45ab-a3c0-63134e685069___Crnl_L.Mold 7144.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e9ebac68-514a-4322-b886-1fea2e69c56e___Com.G_SpM_FL 8999.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\de7feb7f-caf7-4f98-90d4-096b0f130817___Crnl_L.Mold 6629_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7a44f68b-8741-4977-a2e8-ca0a42f846b4___Com.G_SpM_FL 8623.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ffb50767-1893-4379-ba42-8af6d8030057___Com.G_SpM_FL 8854.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0eead1ad-106f-4bb7-8e9e-4ed03cdeb7ab___Com.G_SpM_FL 1319_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\9a1fc5b3-476a-4565-ad69-e054accd2dd6___Crnl_L.Mold 9030.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\774d3b86-63a3-46a7-9355-9aa512d70e19___Crnl_L.Mold 8914_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\71b5e34d-a0e2-46d4-9268-d9c55d6b763d___Com.G_SpM_FL 1738.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9cd773ee-c072-4a61-bc6c-716826705904___Com.G_SpM_FL 1220.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\0e508a3f-af06-4c8a-be78-5c38d2d4fb68___Crnl_L.Mold 6775.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\900402d8-2d24-4d8b-b7b2-556bf2124e1b___Com.G_SpM_FL 9437.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\76e5026d-dc54-4129-8250-573317cc91da___Crnl_L.Mold 6700_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9a435257-cda9-4204-9f67-cbebf7e4f0f4___Com.G_SpM_FL 1677.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2d0b5528-6c40-4881-9b9d-bd2cb06a2831___Com.G_SpM_FL 1200_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\822c1a03-77c7-4640-bf3b-055542fda0bb___Crnl_L.Mold 6950_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0bfd3a50-768e-4661-a134-43aaee7a1c1d___Com.G_SpM_FL 8837.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b66c322b-7fc4-4d0a-9e57-afe7a58b0c1b___Crnl_L.Mold 6554_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ec2742ac-9e83-449c-8f1f-9e53e07d5da5___Com.G_SpM_FL 8526.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7922fafa-294f-4a34-999a-040d1a1a1d44___Crnl_L.Mold 6771_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f9e451c7-e732-4c74-a0bd-94e7fa8016ac___Crnl_L.Mold 7093_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\301b8b4c-f7d4-4626-b527-9f01cec643cf___Com.G_SpM_FL 8643.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e7391b48-0b36-41fd-81f0-35c6b5a24d0a___Crnl_L.Mold 6761.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b193984f-18ce-4d09-af21-0b70e44d704e___Crnl_L.Mold 8705.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\3a3cf9a2-0793-4139-a435-b00eb5332007___Crnl_L.Mold 7091.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d82b4325-1b29-4378-92b8-8440c8bd1f00___Com.G_SpM_FL 8598.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\780aabe7-0d54-4849-80b8-773552ca4b45___Crnl_L.Mold 8824_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d11b8bf0-6fcb-4b1b-b687-c2e0d2fabaa2___Crnl_L.Mold 6669_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0a167675-0317-4105-b885-b707b6ea52cf___Com.G_SpM_FL 9327_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\86f49ade-7fe5-4434-a5d6-c671a0ed2f6d___Com.G_SpM_FL 8508.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\465b62a2-faff-4309-a9c7-1ac7663f47fd___Crnl_L.Mold 6964.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7a08db2d-d61c-447b-b45d-b118351e88f5___Com.G_SpM_FL 9456.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\937f14d9-4aae-47a3-9f27-b6f13a1ee14b___Crnl_L.Mold 8691.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\3876f39d-ca68-494d-ac22-f71d5d459a66___Crnl_L.Mold 9175_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\036d12b0-1e97-4975-bd80-a8a3c48588e7___Crnl_L.Mold 6500.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\aec9b074-2141-447e-ab09-2805a2a38737___Com.G_SpM_FL 8609.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\92d81c31-4944-43b3-b205-89f0c6370ad2___Crnl_L.Mold 6623_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7ecb46e3-8e87-411e-9afb-9543244e7c4b___Crnl_L.Mold 9059.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b155d628-2bce-404f-bd81-6916fd6100e3___Crnl_L.Mold 9067_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cc4dfd3c-fca5-43ce-8532-dc78020d9f62___Crnl_L.Mold 9156_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1efb352f-b742-4654-a61d-bd9d8f38049b___Com.G_SpM_FL 8638_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0b891169-2116-431d-968f-d2a36bb69243___Com.G_SpM_FL 1743.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a961a718-36c3-4050-a5ef-eea64ae152ce___Crnl_L.Mold 9058.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0f75930a-4f0c-49db-b5d8-6e4987b868eb___Com.G_SpM_FL 1729_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0fb21160-9113-4c5a-b1d4-7001b5253bb9___Com.G_SpM_FL 8790_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c0a8c47b-c9dc-4b8e-b291-3a87965075df___Crnl_L.Mold 6754_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\fab1e254-f251-41ee-9e9e-a7ef7c2541ba___Com.G_SpM_FL 1417.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\76d8575b-d10f-42d2-9efb-8a122056ec86___Com.G_SpM_FL 1457.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f12a4cdc-3c47-4f22-9f03-188015dedb07___Crnl_L.Mold 8913_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1bb271cf-e12d-4536-a164-9a6a87002cd0___Com.G_SpM_FL 1593.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b6989b70-a94f-4f48-a00a-2277f8ace6c6___Com.G_SpM_FL 8841.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\9a5845de-1487-402e-ab3d-bdd3ccf48175___Crnl_L.Mold 6809.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\6e2b61bf-f35d-4e8a-a64c-c3cfed5db42e___Crnl_L.Mold 9008.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5d0e79cc-2a50-49cf-9d1c-d5dc064545f3___Com.G_SpM_FL 9306.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\72195027-eef6-4b92-8a7e-9d60842f6e97___Crnl_L.Mold 9151.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b12bbe4f-da0a-4acf-a84e-bfaf737accf8___Com.G_SpM_FL 1532.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\64a72b83-aefc-45f2-80bd-7d34909ee8e4___Com.G_SpM_FL 1697.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\87fe6511-790f-4fc9-aa25-4556fad4e7d7___Crnl_L.Mold 7166_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\fbac63f2-cfbc-4c5c-a623-e40b1314fc83___Com.G_SpM_FL 8784.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a97710a1-8082-4ae9-ad47-cd4344773073___Crnl_L.Mold 9121.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\eafccf05-17e8-4f79-8016-ddcf30e51589___Com.G_SpM_FL 8616.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\986df83a-fa2c-4c3a-8884-d28d04f9cb4e___Crnl_L.Mold 6769.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5792673e-ed65-4ff0-b119-bfdf795251cb___Com.G_SpM_FL 1682.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a20c374f-18a9-40ba-b531-516967f848c6___Crnl_L.Mold 8862_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\306d3e00-d180-4645-9858-b22e3a292554___Crnl_L.Mold 6627_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c6583f61-77e9-4417-aed3-44198e567580___Crnl_L.Mold 8947.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a36f9c7a-b964-452c-988b-e45e49da61cf___Crnl_L.Mold 8706.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\32e7769c-b63c-413a-a623-deebcdb2ec82___Crnl_L.Mold 8757.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2d213315-0896-4c0b-92a6-f7d84b17775f___Com.G_SpM_FL 8884_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\909dd94b-4338-4bd2-b22b-0f222b574124___Crnl_L.Mold 8842_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\88223ca6-7af3-4a52-9784-5eefeeadf18f___Crnl_L.Mold 8821.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\89281d6e-f76e-4945-89b9-bec3c83e23bd___Com.G_SpM_FL 9355.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\37643f50-c651-4b66-863b-1c10aa4de541___Com.G_SpM_FL 9571.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\fb798dfa-5365-4180-b4ce-e46ce5aa9de7___Com.G_SpM_FL 9034.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\5673859a-ec42-4fc0-80ec-44cc3203c7be___Crnl_L.Mold 8768_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\230070e0-c6a3-497a-8e3a-77831300087d___Com.G_SpM_FL 1403.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7107f26c-71de-4158-a361-068d5611d046___Crnl_L.Mold 6600_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\0f740b31-f63b-4193-ab1a-6795c11a7f00___Crnl_L.Mold 7033.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7d7cc470-cbf2-479b-ad90-4a1a6180bafd___Com.G_SpM_FL 9544.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\edd27dda-8e38-45da-9744-75982f71b4fe___Crnl_L.Mold 8762_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\19a5dad8-125e-4765-98d9-0164586fa807___Crnl_L.Mold 6590.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\605aacc9-f599-4bef-a53c-01e56dde4892___Crnl_L.Mold 8679.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\95a5ac3d-50d3-426c-83a6-3fd47fc8c58b___Crnl_L.Mold 6609_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ac5ba358-529e-41f3-a289-b85be6ae405f___Com.G_SpM_FL 9258.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\70ee5cf9-7a7a-4fb8-8ba7-62e4cda1ed45___Com.G_SpM_FL 1644.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a95f0a82-5cad-423a-be56-8205317909e8___Crnl_L.Mold 8677_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\80cd157e-4865-43f3-a0c6-8e3d72e35316___Com.G_SpM_FL 1154.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ec76173b-c354-4711-9bb7-b38dae1ea5b4___Crnl_L.Mold 9074_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d5926e32-2f9f-413f-b6b8-fe86725729d2___Crnl_L.Mold 8974_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\217c69cd-121a-4993-8537-904fa4de4d55___Com.G_SpM_FL 8807.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\bb0f729a-0e44-41fd-b696-6c4219bbdf04___Com.G_SpM_FL 9553.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d93b58b0-81cd-4e29-93b3-6f3d8fc9e6f3___Crnl_L.Mold 6966_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\40067b29-7ac0-4d41-9a67-52aaa1578543___Com.G_SpM_FL 9620.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b05118ca-3085-4fdd-ac15-af66eab2ccb3___Com.G_SpM_FL 8499.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\c8a59f0d-0c74-44c3-a862-4874566bb5c0___Com.G_SpM_FL 9594.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d8b47693-9b2e-4ee2-b822-d61668bd7ea1___Crnl_L.Mold 9016_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d9c04f45-b778-42cf-a96c-bdf559f5be25___Crnl_L.Mold 8833_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2db25538-8655-4530-95e8-025d428e158c___Com.G_SpM_FL 9522_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\c7f52fd0-9e7e-4b53-abfe-cf6cd7a21ca2___Com.G_SpM_FL 1530.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\93584043-384a-48eb-885d-cb87a1e432c1___Com.G_SpM_FL 1629.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\876b7bac-c03b-468e-a7c8-67a3c2ba2526___Crnl_L.Mold 6646.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5a4839d8-71de-41a8-9ca7-d3929c8e95ee___Com.G_SpM_FL 1358.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\87e7e3be-acc9-45bf-a843-5528b1ec9484___Crnl_L.Mold 8924.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f8a3d768-d2e6-43f6-bf3d-6d32d8ba9412___Com.G_SpM_FL 9536.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\128f8a8f-257f-4fb1-b4c3-4eeb524af355___Crnl_L.Mold 8985.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\dfdad328-4a07-43ce-afc4-4d1dd069f52b___Crnl_L.Mold 8791_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\16d4c4ec-274a-4b5e-bfa3-6a40f90b46da___Com.G_SpM_FL 9465.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\774d3b86-63a3-46a7-9355-9aa512d70e19___Crnl_L.Mold 8914.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c9a5bad7-c42c-40e5-a8de-0631a5522018___Crnl_L.Mold 6872.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\36b5a4ab-5051-48a2-8af7-cc1577b58f17___Crnl_L.Mold 8835.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b38caab5-9031-4877-ba93-96bec1bdd4ff___Crnl_L.Mold 9028_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\09904a06-b32f-4db4-963f-c8dacfff6b9e___Com.G_SpM_FL 8456.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3d06d27e-cfea-40b4-ac55-9e0dc96f6b55___Com.G_SpM_FL 8596_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f519ceb3-e49b-4be9-81fa-20fea299b49e___Crnl_L.Mold 9088_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c9bdd302-7a60-43a7-9850-b48861d021b4___Crnl_L.Mold 7129_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\3868a159-b5df-49d2-a689-1181ee1007dc___Crnl_L.Mold 8720.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\42dfc224-c909-4d99-ba6b-7f88129f6708___Com.G_SpM_FL 8735.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\6bbc0d44-dffc-49fe-873e-9dae229ce2e4___Com.G_SpM_FL 9497.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4ceaac12-5d26-494a-be0a-6f7e747a02c2___Com.G_SpM_FL 8963_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\50f3f827-c254-4de3-a7d3-0a5d755367fc___Crnl_L.Mold 8733_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cb956960-ad6c-4a87-bee1-dacfc8acb7d8___Crnl_L.Mold 8945_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\8b4d7740-f9a9-4999-aadb-e017fed99f8b___Crnl_L.Mold 7075.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\53853659-7886-4d19-87a0-65318154b8e2___Crnl_L.Mold 8865_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1d7350c2-9ca5-42c8-89bd-6c6f94dd6459___Com.G_SpM_FL 8803_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\af7f7827-2e38-4f58-9abb-fcf663a4a3c6___Com.G_SpM_FL 9495.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\129160ba-d6f0-434c-b399-735d61a39a16___Com.G_SpM_FL 8628.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\2b31c158-d7d5-4625-b13b-e3e626d791ff___Crnl_L.Mold 6665.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d9dbc294-2f3a-409f-a238-218c4700d011___Crnl_L.Mold 8748_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\4172a7c2-35dc-426f-9b59-c7b1908edc5a___Crnl_L.Mold 6710.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\355b3ad0-1d3b-49ea-80c8-3254a06a660c___Crnl_L.Mold 8968_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9a9a3476-f397-4892-82ab-24638ce03b01___Com.G_SpM_FL 9435.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4daec425-746f-4816-8bd2-dec04d3292ad___Com.G_SpM_FL 9438_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\92d215ce-c6b4-44fd-9492-306d470b9801___Com.G_SpM_FL 8872.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7f1dbe56-fdbb-4741-86d7-6abdb2bed6f6___Com.G_SpM_FL 8886.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d0f7fad4-404a-4587-8bfd-6e56c7baf85a___Com.G_SpM_FL 1270.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\58444bc2-3da1-4ac2-9beb-d09234f64d4b___Com.G_SpM_FL 8704.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\cf9b0f20-9a1c-4fce-b78c-e5d5ac122964___Com.G_SpM_FL 9643.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bb64a6b2-b479-4cff-a101-7d0d98ac62c9___Crnl_L.Mold 9183_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\69468833-8b43-4e43-8ebf-b86adcaeee0d___Crnl_L.Mold 6880.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\44167946-e66c-4206-9501-4f1777bac9ae___Crnl_L.Mold 8639.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1767a6b2-2764-49a1-b774-3c411337bb63___Com.G_SpM_FL 1201.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a36f9c7a-b964-452c-988b-e45e49da61cf___Crnl_L.Mold 8706.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\29e4107d-ab5d-462f-bfe9-d4f440e899fb___Com.G_SpM_FL 1538.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e9fa86d5-dc29-49a9-bb72-ce75beecd01f___Com.G_SpM_FL 8947.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\4152fc15-f9d5-4928-b177-b993db007110___Crnl_L.Mold 8876.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\59ad7ddc-9db9-4a9f-b067-e190e0a494e7___Crnl_L.Mold 6566_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cfd41486-76c4-4a0e-b61b-848a4afdc553___Crnl_L.Mold 7157_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ebe5c5c5-7e29-4aa7-bc0b-f895b5bc3d20___Crnl_L.Mold 6676.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a080e5aa-e54d-4e00-b09a-b896c712ea83___Crnl_L.Mold 6871.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f41b78aa-281c-416f-9d9b-4a5a3d9f20fc___Com.G_SpM_FL 9012.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\230070e0-c6a3-497a-8e3a-77831300087d___Com.G_SpM_FL 1403.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a36f9c7a-b964-452c-988b-e45e49da61cf___Crnl_L.Mold 8706_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\2406a1dc-92d9-4cc9-a724-a67c73104717___Crnl_L.Mold 8750_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d58b9f9a-d62c-44c4-8a76-dba4ccc7fca8___Com.G_SpM_FL 9562.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\05bbff69-adad-4e16-8fad-c265be82e25a___Crnl_L.Mold 6929.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e7ebe82b-5573-47ff-acb8-f208462d0335___Crnl_L.Mold 7123.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2ec0c679-521d-455f-8741-067470353fe3___Com.G_SpM_FL 8795_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\66c3cfc2-4a91-4517-ab9a-b92ec79b47c5___Com.G_SpM_FL 9351.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9e0c8ec8-f525-444d-8657-32b668771b2f___Com.G_SpM_FL 1451.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1dba797c-45b1-4509-8326-753cf2cf7ebe___Com.G_SpM_FL 8515_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a1e5590d-aadc-42f9-9bb1-f7cb8df10e0a___Crnl_L.Mold 8781_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\3876f39d-ca68-494d-ac22-f71d5d459a66___Crnl_L.Mold 9175_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\217c69cd-121a-4993-8537-904fa4de4d55___Com.G_SpM_FL 8807.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\937f14d9-4aae-47a3-9f27-b6f13a1ee14b___Crnl_L.Mold 8691_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4c41c67d-564c-44e2-98e0-b19bc3e10c7c___Com.G_SpM_FL 8887.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ceece521-8e6b-4f7b-b4bb-54369494e7a3___Crnl_L.Mold 6931_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\905a051a-0649-4b4a-8dc7-273952cbd832___Crnl_L.Mold 6574_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2b92d125-cf19-499f-9987-9579b0ba695b___Com.G_SpM_FL 8591.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\10742761-050e-4a3b-b3ef-cbbde8cd6d2a___Com.G_SpM_FL 8445.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b7b05e98-5432-43a1-94e7-e1d6146faf18___Crnl_L.Mold 6912.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e33b960c-9d75-4de7-a310-ac39e5f326a4___Crnl_L.Mold 6689_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\986df83a-fa2c-4c3a-8884-d28d04f9cb4e___Crnl_L.Mold 6769_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\600a933c-9490-4ae7-b7e7-5177992b9bb8___Crnl_L.Mold 8633.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4339add7-fc5c-472a-a5d3-67af2f544f23___Com.G_SpM_FL 9472.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\a2dd9787-1855-44a0-8b16-50ace1be850d___Com.G_SpM_FL 1382.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e52cddad-4c37-4f76-99fe-332801a1cb54___Crnl_L.Mold 6949_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\11ba6d63-4c6e-4a3f-acd9-18567bab6ab9___Com.G_SpM_FL 1728.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a36f9c7a-b964-452c-988b-e45e49da61cf___Crnl_L.Mold 8706_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f456169c-83b5-4fd6-8c0a-41f36fb23ac7___Crnl_L.Mold 6693_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d33d8470-d090-474b-8c16-cd5e88d40f51___Crnl_L.Mold 6998_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7e0b313f-bffb-436c-975f-1566645abfe6___Crnl_L.Mold 7182.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\a317385b-4f00-489e-94d3-8fbeac153086___Com.G_SpM_FL 8698.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\09434fa9-0733-4ef5-9cc3-db29d1e3a480___Com.G_SpM_FL 1425.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0a1c03ea-1a2d-449e-bcc4-4a8b62febf88___Com.G_SpM_FL 9433_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\738b2359-39ac-465b-8d8e-43dc842a280e___Crnl_L.Mold 6535_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\905add43-a0f6-4dbb-a78b-d613c2e178e1___Com.G_SpM_FL 1584.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d677f9dd-7f27-44de-a0ad-b8e582ee63a8___Crnl_L.Mold 6946_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3f76904f-64db-46e5-98e0-6b08d528b459___Com.G_SpM_FL 9370.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\802b8083-7628-4974-8d38-ffe2d82ad62f___Crnl_L.Mold 8997_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\4721ba47-ec00-4557-bca6-ba454ddcb9a9___Crnl_L.Mold 6722_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a97710a1-8082-4ae9-ad47-cd4344773073___Crnl_L.Mold 9121_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9d97d667-2bd1-4e96-a237-620f42c9034b___Com.G_SpM_FL 9360.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\573544ad-029a-487b-98bb-2beaa9007b22___Com.G_SpM_FL 8771.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\29919d99-e33e-43f0-b313-73eef0221636___Com.G_SpM_FL 1673.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\820cdb82-b90d-4909-ad84-273bf8d1b2fb___Com.G_SpM_FL 8842.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3aad576c-3189-4b78-a5df-c9bac0078612___Com.G_SpM_FL 1430.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\59ad7ddc-9db9-4a9f-b067-e190e0a494e7___Crnl_L.Mold 6566_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\05138150-866c-460e-a252-19d269a81d4d___Crnl_L.Mold 6745_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1c4ea24a-8e30-4fde-8ff3-32c9bbe4b432___Com.G_SpM_FL 1448.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b814eaf5-3c86-4f5f-b05a-24db749c8f6b___Crnl_L.Mold 7011_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\bbc1d863-983e-4827-900a-04ff629c60d3___Com.G_SpM_FL 9546.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\619f232e-e49b-4ec8-bb48-552632b2c660___Crnl_L.Mold 9050_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d9c37e93-e99b-4a09-a040-a5d19d75feb9___Crnl_L.Mold 6733.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\65986ff3-5848-4473-a7b7-b79e07d79fd7___Crnl_L.Mold 7040_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7574028f-6e71-4038-af96-0439e7bc4b13___Com.G_SpM_FL 8605.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\9857cf56-43fc-40a6-8108-e6a9c10a8ef2___Crnl_L.Mold 9141_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ad05c94b-3432-4776-99ff-a5735e52cf7a___Crnl_L.Mold 7162.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cbbe1216-6d33-4a63-9985-f5b1a2120027___Crnl_L.Mold 6625.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3ff572ac-0f2f-494a-9c64-99ae63d318ef___Com.G_SpM_FL 1242_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1b51a575-adbd-406b-8371-754b6009e7fb___Com.G_SpM_FL 1769_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\731cf3e6-e1a9-4258-9679-d7502ad51914___Crnl_L.Mold 7127_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\82fc0697-cf02-48f0-8a16-23018cee64db___Crnl_L.Mold 6584.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b510ecb5-48ec-4a3d-ac9d-7b19400542fd___Com.G_SpM_FL 8758.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\dfdad328-4a07-43ce-afc4-4d1dd069f52b___Crnl_L.Mold 8791_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\74433374-b410-426c-8752-c0e4ea7c9f71___Com.G_SpM_FL 8641.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e5d51758-c8ac-4e80-8770-b94c12502011___Com.G_SpM_FL 9260.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4cf2d9a3-ae18-426a-a455-526aed2167a0___Com.G_SpM_FL 1260_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d15e91c8-b473-472e-96b6-331a5c62392d___Crnl_L.Mold 8787_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\6c859190-5922-4207-9bfe-ecb4fce2e273___Crnl_L.Mold 7010.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3e8c5090-c278-4726-80db-a1d21e6c7e06___Com.G_SpM_FL 8719_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\9d23d930-a755-4554-bb5d-093d0055b65d___Crnl_L.Mold 9090.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7011fa6f-fba9-466e-a6d1-439370a4a37b___Crnl_L.Mold 6588.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\fdff01c6-993c-46d0-8310-7832991220ac___Com.G_SpM_FL 1381.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2fd0efb7-d0fd-4c57-ba78-8e6a3fc5e149___Com.G_SpM_FL 8926_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\6beda1f2-d01e-4693-b3c0-e544cf00954b___Crnl_L.Mold 6917.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\c3cbde56-8c97-446c-bd42-7bcb9c74285b___Com.G_SpM_FL 8891.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\29059c14-7b1c-4e06-8c40-2fc73f28ffe6___Crnl_L.Mold 6927_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\460faa12-8c7a-458b-a6a1-90c71cc73fad___Crnl_L.Mold 9102_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f702e4c1-fe56-41c5-9ee8-ccb06d8dce13___Com.G_SpM_FL 9528.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f4844fb4-c16b-454b-b5b2-64911885ec71___Crnl_L.Mold 8657.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f20ed4bc-ca80-440c-b254-95d0a1953da8___Crnl_L.Mold 8792.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\8da3d37b-f88f-43a6-a1d2-da605a3faeb0___Crnl_L.Mold 7181.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\773d6169-0f79-4d2d-b10a-f0b40c936e40___Com.G_SpM_FL 9448.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\da6cc51a-6ba2-4b1d-aa4f-5d699860da6b___Crnl_L.Mold 6767_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f61fcad0-2f24-461e-9dc7-4908d950f397___Crnl_L.Mold 8860_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bb7c7fce-4601-43b6-b396-4f78ca7dd44c___Crnl_L.Mold 9013_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4e567e3a-d2fe-4eb2-be86-daa1e4a95052___Com.G_SpM_FL 8608_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d49623e2-8d48-480e-8bd1-c7f7b997514c___Crnl_L.Mold 8676_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e7e687ae-c2f1-4ab4-9726-fe9ee5c1c889___Crnl_L.Mold 8765_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\78cfaa28-9259-4225-8641-5dfaceab2118___Crnl_L.Mold 6690_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c5194079-bfc0-40d3-bc7e-d379bce83eaf___Crnl_L.Mold 6705_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a080e5aa-e54d-4e00-b09a-b896c712ea83___Crnl_L.Mold 6871_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4999cf5b-f352-4a35-bf69-be772073b916___Com.G_SpM_FL 9485.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4d1d81ce-2c5e-469f-857f-83691b0cdab9___Com.G_SpM_FL 9566_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\93c02ade-4b3a-4401-836d-0577276c645c___Crnl_L.Mold 8736_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d14dcbfe-aba8-4cba-ac88-652a4199ff6c___Com.G_SpM_FL 9289.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\26f7efac-d767-41bd-8c47-1a6bc6928f5e___Com.G_SpM_FL 9657.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fd686c68-9a4a-4d11-98fa-7c612aff9fd4___Crnl_L.Mold 6974_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\614f3742-24d2-4b79-a81c-29e6516e1d4c___Crnl_L.Mold 8652.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2482ef02-b513-41ee-95df-81ae24ef55dd___Com.G_SpM_FL 8562.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4558d92c-82e5-4a33-a0d2-0a61e743c767___Com.G_SpM_FL 1168.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e8a0bcf7-b76f-495f-ad84-f29329bfa481___Crnl_L.Mold 6620.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\55aaf81e-1a23-419c-9b20-a24f5ab5e0ec___Crnl_L.Mold 6549_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ff146f2c-dbb7-4da0-aa98-a36351435489___Com.G_SpM_FL 9654.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4eafd895-1d10-4f48-8da7-a78220788514___Com.G_SpM_FL 1204_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e33b960c-9d75-4de7-a310-ac39e5f326a4___Crnl_L.Mold 6689_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b9beb5ed-0e80-4a9f-bcec-0be7abc6904d___Crnl_L.Mold 7152.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f588d442-8eb5-439a-9c1a-cad5722ecc28___Crnl_L.Mold 7133_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b8a6d929-d111-4484-b533-ff68ed3304ca___Crnl_L.Mold 6592_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4ceaac12-5d26-494a-be0a-6f7e747a02c2___Com.G_SpM_FL 8963.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b9323ad5-caaf-4c56-8cd8-1a638c11f79d___Com.G_SpM_FL 8594.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1c4ea24a-8e30-4fde-8ff3-32c9bbe4b432___Com.G_SpM_FL 1448_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\45248234-50eb-465e-a7e1-7b80140db3d3___Com.G_SpM_FL 9509.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4ac9c932-72ee-45a7-8602-8fc1923e9e8e___Com.G_SpM_FL 9265_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\6b56547b-6d59-40ef-852a-b3cf29f779b4___Crnl_L.Mold 8902.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\af7e1ce4-bb49-4227-ba89-9972bab473b7___Crnl_L.Mold 6560_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b190b148-9621-404b-a3a1-e697d2d40f42___Crnl_L.Mold 8656.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a4baece0-0e73-4b2f-a434-007c429fb5f9___Crnl_L.Mold 6672.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a6626e49-1ba7-4b37-9490-aff2b2ec03eb___Crnl_L.Mold 7141.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\dc98f601-174f-481d-a666-6af979c61d4f___Crnl_L.Mold 6859.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\822c1a03-77c7-4640-bf3b-055542fda0bb___Crnl_L.Mold 6950_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\2151777c-9cd4-41b0-b6ae-c761c0dd1801___Crnl_L.Mold 8623_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\89f4682e-96b6-4eba-a8ce-b485b42175ef___Com.G_SpM_FL 8541.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\365cd045-b802-4ab5-89a3-81dd5131f96b___Com.G_SpM_FL 1699.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c28fe517-5ca7-4021-98a5-9fe8908c815b___Crnl_L.Mold 7116.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\18488cdf-a5d7-43ff-8dfe-8250e1a04820___Crnl_L.Mold 6939.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\526cef23-88d8-4dd8-8ff4-eed6e98ac7d4___Crnl_L.Mold 6856_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\eca409c5-fd2b-4fab-9a54-4fad60a205d8___Crnl_L.Mold 8875_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3fbb18c9-eea8-431b-a4ac-eb791fb580d0___Com.G_SpM_FL 1213.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4a3665bf-932d-4526-95a6-e491354df4ff___Com.G_SpM_FL 1541_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d8cbf2c3-f99f-4af9-a8a2-9d88e2ed0524___Crnl_L.Mold 7022.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\57e95bba-efa5-47e8-b069-a09fe0278146___Com.G_SpM_FL 8506.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\4176b39b-a3b7-4611-b05b-b4020269bae3___Crnl_L.Mold 7115_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2a1b18db-6bbb-4c36-ad06-bf0fcaa5c4b8___Com.G_SpM_FL 1418.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e8a2e430-adae-4b78-bcfd-5652c59ad548___Com.G_SpM_FL 1758.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f5cf6938-855e-479f-b909-a9bc12fcb76c___Com.G_SpM_FL 8733.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f63bb2e2-d13c-4e48-8e94-4d97f0dbad49___Crnl_L.Mold 6799.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b69f0ec4-240b-47ae-8cd7-0a3bec246bf1___Crnl_L.Mold 8722_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\39528564-9273-41d9-96d4-2170096eb649___Com.G_SpM_FL 8756.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\9352c724-ec44-4955-a845-62577931d3db___Crnl_L.Mold 7013_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bffaf3b2-61c2-43e1-bfec-a3412b3d5ac8___Crnl_L.Mold 7026_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\c344dfa1-ea48-45d4-a470-22627ad1d43d___Com.G_SpM_FL 8640.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\46aff4bf-7ab8-4a46-95d0-cc3a2007207a___Com.G_SpM_FL 1558.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\94451749-fc16-42bc-93f9-89f08e7e3a7d___Com.G_SpM_FL 8789.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ff146f2c-dbb7-4da0-aa98-a36351435489___Com.G_SpM_FL 9654.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a9fbf5e6-bec9-4845-9659-237d9c67f8eb___Crnl_L.Mold 8624_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e346d87d-cd42-425f-a7a0-8fca01cb6f75___Com.G_SpM_FL 8550.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d8b47693-9b2e-4ee2-b822-d61668bd7ea1___Crnl_L.Mold 9016.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\970e073d-a091-4be9-9a3a-42374ecfe7c8___Crnl_L.Mold 8627_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ab076be9-6ea4-4fa2-b173-d9b1b76953ab___Com.G_SpM_FL 9353.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f3b8f9e3-6c47-4797-9da6-d8b09e19048c___Crnl_L.Mold 9023_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\73045f6c-d0c7-43a3-a229-1f521a7ff33f___Crnl_L.Mold 8851.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b63e58c3-8c7a-4009-ab29-8524ce4d704b___Com.G_SpM_FL 8680.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ec76173b-c354-4711-9bb7-b38dae1ea5b4___Crnl_L.Mold 9074.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\628a9d6d-982d-4424-9a7d-e8e0219818fe___Com.G_SpM_FL 9321.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\0adab1d4-5696-4cd8-8453-3931b70e856d___Crnl_L.Mold 8689.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\41f98f75-b866-4393-8b0b-f72c008fe250___Com.G_SpM_FL 8468.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ed4d4d88-f802-4e7f-80a7-2b97cd714600___Com.G_SpM_FL 1597.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1ea67ad6-cd45-45f3-a5a0-30474042f0fc___Com.G_SpM_FL 9389_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3d06d27e-cfea-40b4-ac55-9e0dc96f6b55___Com.G_SpM_FL 8596.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9ce6d72b-57d7-4f3d-8e3b-abc7d1da2e69___Com.G_SpM_FL 1455.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\789cd918-1324-45be-a616-e38f9ab50a48___Com.G_SpM_FL 1189.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2fd0efb7-d0fd-4c57-ba78-8e6a3fc5e149___Com.G_SpM_FL 8926_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\09240d05-a928-4491-9f13-ee42b693e2bd___Crnl_L.Mold 6610.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e401be04-ce62-4682-ae91-765fc4c2cc31___Crnl_L.Mold 7114_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\6acdfc27-7fc5-47c9-bbe9-153ac4a3b797___Com.G_SpM_FL 9014.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\256f372d-a298-423d-87b4-dc1019516864___Com.G_SpM_FL 1352.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e872312d-c093-4320-992a-410031e3fa58___Com.G_SpM_FL 1571.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\77451675-72f4-41be-9e1f-698f7bb5d7bc___Crnl_L.Mold 7032_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3816382b-fc42-4661-b2fe-de651d2ca2ba___Com.G_SpM_FL 9294.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\731cf3e6-e1a9-4258-9679-d7502ad51914___Crnl_L.Mold 7127.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\5014af80-1e3c-4a8b-9722-f90e874cbf42___Crnl_L.Mold 8991_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f078ec87-8af4-469c-bd7c-e8db6cd89e28___Com.G_SpM_FL 1742.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3a2b3d76-060b-41c2-b6e5-44149f209b73___Com.G_SpM_FL 1321_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\7cbb0e2a-7b29-4f9d-9a1d-65e9f25a14fb___Com.G_SpM_FL 9548.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\909dd94b-4338-4bd2-b22b-0f222b574124___Crnl_L.Mold 8842_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d3f5e817-d531-4f9b-ac58-a9bf80518f85___Crnl_L.Mold 8988.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7107f26c-71de-4158-a361-068d5611d046___Crnl_L.Mold 6600_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0f6a5f32-3d95-4ef1-bc01-ba36f2efb2b4___Com.G_SpM_FL 1661.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0a1c03ea-1a2d-449e-bcc4-4a8b62febf88___Com.G_SpM_FL 9433.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\29e4f2d6-7cbe-4f7e-84cd-a1f57957a35e___Crnl_L.Mold 6569.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e4b615ab-7fb8-48cb-a497-49b956ca2437___Crnl_L.Mold 8778_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a7aba5e4-a78a-459a-9caa-77f0f98ef2d5___Crnl_L.Mold 9012_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2cf7009e-f40f-4903-9571-84784d637e7a___Com.G_SpM_FL 1328_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\6bcf086c-abf3-48d3-8fd1-611c5f60183d___Com.G_SpM_FL 1160.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\51e4eabc-fe2b-44cc-88c8-bc95dafb5a57___Com.G_SpM_FL 8528.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\03dc4d71-45b6-4845-9f66-3b7aae5375e1___Com.G_SpM_FL 1193_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1ba7b39c-c687-42da-b283-edf7a03b17b7___Com.G_SpM_FL 9484_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b321a516-da4c-4e95-8239-a33b281e05d1___Com.G_SpM_FL 1755.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\25942223-0e8b-43f0-af12-f156ff075486___Com.G_SpM_FL 1560.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\13287ee6-523d-4cc9-b537-6df918dae5a2___Crnl_L.Mold 6528_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a18ef1c1-96c1-42ee-8ad7-c78283c8fc4f___Crnl_L.Mold 7023_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\42338037-ae62-45f9-a040-ea9e900272a9___Com.G_SpM_FL 8464.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b1b88c75-6e10-4dfe-b959-84f3db648a39___Crnl_L.Mold 6632_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\47f32cb8-f809-408c-b6cb-2e9494e244a2___Com.G_SpM_FL 8490.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\abff37d9-e870-4274-a035-923c2bf5edaf___Crnl_L.Mold 6626_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\adbd213f-90ad-4a26-900d-e91fde64539e___Com.G_SpM_FL 1772.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e5296fcd-8354-4c8c-8e91-777fe4d9555b___Crnl_L.Mold 8973.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f85b350c-a7cf-4652-87e7-5e039e82021d___Crnl_L.Mold 8927.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a740fdd7-45f9-445f-a992-37005aa41d32___Crnl_L.Mold 6883.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\bc38c469-2936-464a-a799-4251615e380e___Com.G_SpM_FL 8716.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\44f080ba-5c5b-42e3-a584-ee3114b25e61___Com.G_SpM_FL 1563.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d40c6c6f-396b-4032-ac0c-92d49b6ecea9___Com.G_SpM_FL 9457.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\774d3b86-63a3-46a7-9355-9aa512d70e19___Crnl_L.Mold 8914.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\aaa75054-5e35-419b-98f0-ee75a065aa09___Crnl_L.Mold 6534_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\1fa78650-4f81-4c8f-9190-91f1057d1158___Crnl_L.Mold 9083.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ecee5a37-1c82-4f93-a9d9-d1c098e6514d___Crnl_L.Mold 8618.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\04b0cccf-da6f-4ad8-9ff9-0055170a990c___Com.G_SpM_FL 1284.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e9a29961-5b3e-47a8-b2aa-b8d0ba9f2a80___Crnl_L.Mold 6838_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2ec0c679-521d-455f-8741-067470353fe3___Com.G_SpM_FL 8795.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1b184d8e-69bf-4af8-bdb5-22f477d587c0___Com.G_SpM_FL 8993_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ea06d6ff-8848-40a9-8372-fcb229337bd4___Crnl_L.Mold 9092.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2bc44ebe-0c50-4e13-b174-c7af34098ed9___Com.G_SpM_FL 9399_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\3d232a86-283d-45ec-b5cf-99829d78afa8___Crnl_L.Mold 6550.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fc3b00ae-34b4-41f4-9122-5649f1aca3d8___Crnl_L.Mold 6687.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\95ed6d10-20c2-4b45-9d3e-73b7bea122dc___Com.G_SpM_FL 8423.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\092442ed-3ad2-4195-8cd5-cc2ba74469e1___Crnl_L.Mold 6578_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\dc533794-bc05-4564-b110-dea895234a02___Crnl_L.Mold 9068_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c3bd29d2-8770-4897-8554-ccba8fcc387e___Crnl_L.Mold 7154.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cbbe1216-6d33-4a63-9985-f5b1a2120027___Crnl_L.Mold 6625_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f519ceb3-e49b-4be9-81fa-20fea299b49e___Crnl_L.Mold 9088.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\05205449-e0d0-4d2f-a2fb-6f1fc0e2e9c5___Crnl_L.Mold 8717_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1b9607e3-1eec-4a0f-876b-f7923515b7e6___Com.G_SpM_FL 9288_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\968a26f7-e05e-429f-9fed-5f9b0ec9eec6___Crnl_L.Mold 6902_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fa2fb8f3-3561-4dad-bec1-a60555b9197d___Crnl_L.Mold 8852.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\bf36d28e-7feb-460c-a26d-75619b819157___Com.G_SpM_FL 8604.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d2c889b0-0223-4e09-9d9f-cdf019b65120___Crnl_L.Mold 8631_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d2223d7d-d833-466f-9bda-c8c762cae44b___Com.G_SpM_FL 9031.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\324bf28d-7005-4845-9931-012f2a972b37___Com.G_SpM_FL 1506.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c02f3863-3012-4f3a-873e-8003d73a54f9___Crnl_L.Mold 6520.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d4e45af9-ab53-4ed4-a534-ad10c11fb7c6___Com.G_SpM_FL 8469.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f6c43250-2d85-42fb-85e6-57699cbb9350___Crnl_L.Mold 6765.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b31c5c8a-aac0-4cad-af32-2b10e2fa64f6___Crnl_L.Mold 7053_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e4bc3bc6-794e-43c4-8938-e56ed74b5542___Crnl_L.Mold 6613.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a7ea5602-9cd1-444e-bce8-ed314ddda894___Crnl_L.Mold 9101_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e4b615ab-7fb8-48cb-a497-49b956ca2437___Crnl_L.Mold 8778_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\505aa99f-6336-43e6-b9d1-4ee69c19626d___Crnl_L.Mold 6825_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0e74fa9e-a63f-46b3-a976-46510e7fdfba___Com.G_SpM_FL 8579.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a05d577d-ebe7-44e3-9ac0-e6e742e34f1a___Crnl_L.Mold 9164_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\e6cfc638-fdee-4471-a0ce-994a33447558___Com.G_SpM_FL 1617.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\abff37d9-e870-4274-a035-923c2bf5edaf___Crnl_L.Mold 6626.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cfd41486-76c4-4a0e-b61b-848a4afdc553___Crnl_L.Mold 7157.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\54ad9e10-f37e-40af-89ab-43ec8bcfbb55___Crnl_L.Mold 9057_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\73f77cb0-f4ee-4500-ac3f-2cd6c79585ed___Crnl_L.Mold 7000.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\526cef23-88d8-4dd8-8ff4-eed6e98ac7d4___Crnl_L.Mold 6856_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ba369b28-d6f8-4c1f-a177-ff05ca0f9ac1___Com.G_SpM_FL 1704.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\59be5fe5-77f9-4538-a3c9-8c3be20f662d___Crnl_L.Mold 8938_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\039183dc-a260-49fa-b28a-0c8f11614896___Crnl_L.Mold 6720.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\82565e82-32e7-482c-a1ab-68f4853e5dcb___Com.G_SpM_FL 8836.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\69fc385e-4ceb-4858-83d6-1fbc1973d441___Crnl_L.Mold 8844.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\71c23873-073d-4ab2-a608-edaff9d2cda1___Com.G_SpM_FL 9499.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5b7d7af1-b710-4d56-ac06-e4c413321f9c___Com.G_SpM_FL 1557_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\706355a7-3ca5-4a79-b946-6fecf0b17277___Crnl_L.Mold 8990.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\45973ec2-c906-4cc3-8b38-59a4ae2fb381___Com.G_SpM_FL 8653.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\5033c868-7977-4a3f-9705-1fb656e64459___Crnl_L.Mold 6813.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ff0f33d2-9e9f-4b74-861d-a7e0fdf8d248___Com.G_SpM_FL 8511.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f0e71c5c-4a0b-4b97-88db-19438a52d9b1___Crnl_L.Mold 8751_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\edd27dda-8e38-45da-9744-75982f71b4fe___Crnl_L.Mold 8762.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2cd8d4c9-6eb7-4ed2-808f-df3ae1aedf7a___Com.G_SpM_FL 9621.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1f100e65-f5ab-4991-8665-f9fb28f5c0e2___Com.G_SpM_FL 1179.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\16ce6128-f485-4bbf-9cf5-8cab2e872dbe___Com.G_SpM_FL 9342.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0ad80523-3f34-41ae-aec8-e676546ddde5___Com.G_SpM_FL 8489.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\1bfe7244-44ab-4fac-abe5-f229217cdf0b___Crnl_L.Mold 6815.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\68195fab-d012-4532-8b71-6ec8812ceb89___Crnl_L.Mold 9043_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a4a9faea-5038-4fa7-b056-8eed57e56525___Crnl_L.Mold 7179.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c0bd50dd-bd61-4b2c-a7f2-84c1730ecfc5___Crnl_L.Mold 6984.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2b47c565-c37a-4bdb-baa9-b3721dbf9bb6___Com.G_SpM_FL 9326.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1e0e0b1b-bc70-486b-9d85-f6e3ca348516___Com.G_SpM_FL 1285.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\905add43-a0f6-4dbb-a78b-d613c2e178e1___Com.G_SpM_FL 1584.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\42aab48c-ad58-42b6-adaa-2dc72364288a___Com.G_SpM_FL 1222.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\80ff79e7-97eb-40f5-9fc9-cab73a4741e1___Com.G_SpM_FL 9418.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\970e073d-a091-4be9-9a3a-42374ecfe7c8___Crnl_L.Mold 8627.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\434368e8-214e-4c1e-a1c1-aad66e7f069b___Com.G_SpM_FL 1570.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2af7c6b3-d37c-4f2f-9129-ea679437740c___Com.G_SpM_FL 8545.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\c5fde521-4d6d-4efe-8157-2d0a306f51e4___Com.G_SpM_FL 1482.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\779193cc-e88e-45e4-8f77-4b922d2f487d___Com.G_SpM_FL 9547.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c28fe517-5ca7-4021-98a5-9fe8908c815b___Crnl_L.Mold 7116_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0e20026b-8b12-4c86-bd41-3e10ea0fae44___Com.G_SpM_FL 1668_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\54ad9e10-f37e-40af-89ab-43ec8bcfbb55___Crnl_L.Mold 9057_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\da6cc51a-6ba2-4b1d-aa4f-5d699860da6b___Crnl_L.Mold 6767.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\44167946-e66c-4206-9501-4f1777bac9ae___Crnl_L.Mold 8639_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\23e37ceb-929f-43ad-86fb-7bb3b9b97820___Com.G_SpM_FL 9297.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\8c12b984-d1be-4c9c-9fd8-cd032434f543___Crnl_L.Mold 8911.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\8d6e2d0b-672d-4737-8973-17a9f31517a8___Crnl_L.Mold 7070.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1ea67ad6-cd45-45f3-a5a0-30474042f0fc___Com.G_SpM_FL 9389_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\b0171eb9-e9c4-4d17-8f39-e748361fdfba___Crnl_L.Mold 8828.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\d8e166cb-9d9f-4c18-8aa4-f09b04948cbf___Com.G_SpM_FL 9405.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0a167675-0317-4105-b885-b707b6ea52cf___Com.G_SpM_FL 9327_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\7f855210-f737-44d7-af52-1d78baac14a4___Crnl_L.Mold 8664.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2ae5364f-20a9-46e9-8ca8-e47710c50446___Com.G_SpM_FL 1295_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4fc60427-ea10-4975-8ab9-f3b83aa362ea___Com.G_SpM_FL 1227_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\497393f6-55bc-4e2b-b208-fa0f54ba8c92___Com.G_SpM_FL 1420.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\bf97c963-b3cd-480a-be10-b8b2c539973f___Crnl_L.Mold 6982_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\19014458-f5de-4c92-beb5-8faf0e6a6bf3___Crnl_L.Mold 8754_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\53583056-c427-4687-b89f-e0507471c8b2___Crnl_L.Mold 9077_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\8989f67e-ccc0-4d37-a950-59d3a69856fe___Crnl_L.Mold 7175_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fdec728a-c3e5-478d-9e14-ac1a717d5ffc___Crnl_L.Mold 9045_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\791aae0d-94d2-4d06-b696-6ffd297f2ccb___Crnl_L.Mold 8888_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\13fa2773-ccce-4f1d-85cd-e5cb2c3b6c72___Crnl_L.Mold 8996.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e9a29961-5b3e-47a8-b2aa-b8d0ba9f2a80___Crnl_L.Mold 6838.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b922a594-89b4-417f-ba52-b38eda920525___Com.G_SpM_FL 1398.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\4399fdd6-a30d-44c2-a79a-01c3e0e941c5___Com.G_SpM_FL 1310.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\738b2359-39ac-465b-8d8e-43dc842a280e___Crnl_L.Mold 6535_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f34c4c14-fa28-4761-aeb3-7d00fa139bef___Com.G_SpM_FL 8481.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1d7bff81-b441-4f32-8cc0-85dd50b79cf3___Com.G_SpM_FL 1443_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\ecee5a37-1c82-4f93-a9d9-d1c098e6514d___Crnl_L.Mold 8618_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\c4c111ce-e78c-4c4e-9da4-cdd98a39cf2d___Com.G_SpM_FL 1406.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\4699bc00-7eed-4e6a-b701-15218a40bcb1___Crnl_L.Mold 8760_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a3bcb764-2c05-44e0-a177-70d0d8294894___Crnl_L.Mold 7170_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\f167642d-37c5-4f64-9daa-438cc30e7ec3___Com.G_SpM_FL 1543.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\876b7bac-c03b-468e-a7c8-67a3c2ba2526___Crnl_L.Mold 6646_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\81a0a46e-f862-4a63-8304-e2c537ca8fb2___Crnl_L.Mold 6824_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\dc533794-bc05-4564-b110-dea895234a02___Crnl_L.Mold 9068.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d8f27502-b864-4da3-9dd5-b7eccf2e8cbc___Crnl_L.Mold 6708_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\498314ae-6c7f-4c5a-998a-ad0dab8456f6___Com.G_SpM_FL 8923.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\707469c1-31f4-4c33-ae84-432e70e0c399___Crnl_L.Mold 9034_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2028bc26-062e-4113-923e-7e0f7b47ad6b___Com.G_SpM_FL 9461.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\b0d67356-4a29-4265-b549-3dc32c654c27___Com.G_SpM_FL 9365.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\1f3c081d-ddf4-48f7-884b-08b3a5b3ae0a___Com.G_SpM_FL 1307.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\614f3742-24d2-4b79-a81c-29e6516e1d4c___Crnl_L.Mold 8652_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\64212dd5-5bcd-4abf-bc24-a1c13c81d60b___Com.G_SpM_FL 9290.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\9a2d269c-c16c-4912-9dc6-68cb066d469b___Com.G_SpM_FL 9464.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\4df098c3-c7c0-4f37-b3c4-e3d354e1296a___Crnl_L.Mold 8958.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\97148730-7d8d-490d-9f90-1e0afafce2a4___Com.G_SpM_FL 9631.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\ce0386c6-eef2-4746-8407-785b6be137f5___Com.G_SpM_FL 8778.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2cd8d4c9-6eb7-4ed2-808f-df3ae1aedf7a___Com.G_SpM_FL 9621_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3aad576c-3189-4b78-a5df-c9bac0078612___Com.G_SpM_FL 1430_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\a317385b-4f00-489e-94d3-8fbeac153086___Com.G_SpM_FL 8698.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\74cdebf6-7aa9-40a1-bca2-d4dc28bc5b1f___Crnl_L.Mold 8724.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\192b37de-023d-4075-a525-397353e8c93c___Com.G_SpM_FL 1690.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f3b8f9e3-6c47-4797-9da6-d8b09e19048c___Crnl_L.Mold 9023_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\aaac4e3a-fe49-435a-a933-e7099b3456a5___Crnl_L.Mold 9093_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2305cbc5-4e95-4258-810d-e68e7a58b6f2___Com.G_SpM_FL 1454.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\93c02ade-4b3a-4401-836d-0577276c645c___Crnl_L.Mold 8736_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d9c04f45-b778-42cf-a96c-bdf559f5be25___Crnl_L.Mold 8833.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3d74d3e8-d946-4270-b762-19b0d1552351___Com.G_SpM_FL 1413.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\a37dad1e-446e-42f9-a923-b6a654e4132a___Crnl_L.Mold 7155_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\32245a13-92fe-48bf-85c8-938819a057ee___Crnl_L.Mold 8643_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\55495e8f-9873-4dda-a02e-32736fed032a___Crnl_L.Mold 6499_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\8955f58d-9250-4070-9a6e-ebac0f4e473c___Crnl_L.Mold 9037.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\091238ce-b84c-4629-a8b2-ba78254bd2e0___Crnl_L.Mold 8788.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\0f514b75-2c74-4075-b9c7-5d469ab292ba___Com.G_SpM_FL 1205_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\d851f069-a167-4136-b21f-73a85f6f2126___Crnl_L.Mold 8957_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5da96ce7-7da5-4709-b88d-d560e70e0085___Com.G_SpM_FL 8532.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\2fb77f60-ae5b-40c4-b6fb-3c90ac55ccd4___Com.G_SpM_FL 9367_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\53884dab-82f0-4f78-b28e-c0fe64805316___Com.G_SpM_FL 9630.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\5a79ccbc-ed73-4870-8a2d-6e305c78f76b___Com.G_SpM_FL 8530_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\3eb2dbc2-ea12-40b3-9d38-11d5bfa97af1___Com.G_SpM_FL 9316_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\a1fc0694-984c-427c-89e6-11ae9b9175da___Com.G_SpM_FL 1512.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\8bc3ccca-a312-4d14-a412-4c1726cdace9___Crnl_L.Mold 8802.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\87fe6511-790f-4fc9-aa25-4556fad4e7d7___Crnl_L.Mold 7166.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\a3cbf151-7473-40c5-b40f-fa27fe490b21___Com.G_SpM_FL 8722.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e40291b5-6b55-4c56-a044-3971e70eda1e___Crnl_L.Mold 7164.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\47368e87-9afe-4943-8929-e5e8a652bf60___Crnl_L.Mold 8950.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\58fa7c1e-418a-45e5-9228-14bdee34fc89___Crnl_L.Mold 6816_flipTB.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\df78e8cb-8fc5-4682-ab5c-f265b4e8d97e___Crnl_L.Mold 8619_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\daa3aaa8-41a1-4b46-9b3e-3363ac2fb737___Com.G_SpM_FL 1210.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\cb88247d-9a2a-4cd9-888a-76d799436f10___Crnl_L.Mold 7125.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\c0bd50dd-bd61-4b2c-a7f2-84c1730ecfc5___Crnl_L.Mold 6984_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\63d168ad-84fa-43b7-8da8-c8a0ee3928e8___Com.G_SpM_FL 9042.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\fbd446f3-6104-4ab8-8d3f-d4f69befecef___Crnl_L.Mold 7131.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\f853c1bf-7139-42d0-a40d-0e98da2cbab0___Crnl_L.Mold 6509_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Leaf_Mold\e52d4992-f924-4b08-afea-8bbdb4766089___Crnl_L.Mold 9010_180deg.JPG
+data\raw\new_plant_disease_dataset\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)\train\Tomato___Spider_mites Two-spotted_spider_mite\844e29c3-2e68-4101-92e9-2fa61d5477a5___Com.G_SpM_FL 1436.JPG
+data\raw\plantPathology2021\train_images\f11bdab109d2e5e0.jpg
+data\raw\plantPathology2021\train_images\dea2323240e75ee6.jpg
+data\raw\plantPathology2021\train_images\f0823d7ac13fc073.jpg
+data\raw\plantPathology2021\train_images\f0b09ac1f8cf45c5.jpg
+data\raw\plantPathology2021\train_images\91b27ad271c9c719.jpg
+data\raw\plantPathology2021\train_images\8ae266ce964689bb.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0509.jpg
+data\raw\plantPathology2021\train_images\df570928d3d22a9a.jpg
+data\raw\plantPathology2021\train_images\b949069b3d65d45a.jpg
+data\raw\plantPathology2021\train_images\c9d63696629107ed.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0333.JPG
+data\raw\plantPathology2021\train_images\859ec6cdce6c122b.jpg
+data\raw\plantPathology2021\train_images\a785c29f0edcdc30.jpg
+data\raw\plantPathology2021\train_images\bf76e8d3c0c045c5.jpg
+data\raw\plantPathology2021\train_images\995262cddbd8e452.jpg
+data\raw\plantPathology2021\train_images\f9e88fec002472eb.jpg
+data\raw\plantPathology2021\train_images\e6d2949e6a8d8596.jpg
+data\raw\plantPathology2021\train_images\af6292db1b611d98.jpg
+data\raw\plantPathology2021\train_images\afc080cf5b3d79a0.jpg
+data\raw\plantPathology2021\train_images\cdea8de2b1c1a135.jpg
+data\raw\plantPathology2021\train_images\c0ef3dc23ea5812e.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0514.jpg
+data\raw\plantPathology2021\train_images\850fc6c134777339.jpg
+data\raw\plantPathology2021\train_images\a5f3d2e58a568e50.jpg
+data\raw\plantPathology2021\train_images\a86d9d1f99b04a96.jpg
+data\raw\plantPathology2021\train_images\cdf71f3395a20164.jpg
+data\raw\plantPathology2021\train_images\c2d034646fa7dea4.jpg
+data\raw\plantPathology2021\train_images\e00fce341cb63da5.jpg
+data\raw\plantPathology2021\train_images\f3e5a0ac6d132c1b.jpg
+data\raw\plantPathology2021\train_images\f5cfd892d0c3c4c4.jpg
+data\raw\plantPathology2021\train_images\b53542d28b699f89.jpg
+data\raw\plantPathology2021\train_images\a696b130bd6e8f03.jpg
+data\raw\plantPathology2021\train_images\f4f8c2d1c0cbe487.jpg
+data\raw\plantPathology2021\train_images\d1f01e8d8a73274d.jpg
+data\raw\plantPathology2021\train_images\fa9f95c2daca0905.jpg
+data\raw\plantPathology2021\train_images\f4bcdb58fdf10080.jpg
+data\raw\plantPathology2021\train_images\a9be83c26a4e9587.jpg
+data\raw\plantPathology2021\train_images\c7473f1aed4242d4.jpg
+data\raw\plantPathology2021\train_images\95bd53d0494af196.jpg
+data\raw\plantPathology2021\train_images\ba2cca9a4dd83366.jpg
+data\raw\plantPathology2021\train_images\e5834f0c1074bf9b.jpg
+data\raw\plantPathology2021\train_images\a03f995a9b884f9c.jpg
+data\raw\plantPathology2021\train_images\f4a0c077c79a8cd9.jpg
+data\raw\plantPathology2021\train_images\b4a1e947ce2d1e54.jpg
+data\raw\plantPathology2021\train_images\8de4948fd9ed3805.jpg
+data\raw\plantPathology2021\train_images\b42bc0fc03f09fe2.jpg
+data\raw\plantPathology2021\train_images\a3ec12d7ca2a07b5.jpg
+data\raw\plantPathology2021\train_images\9798aeb1f072a7a0.jpg
+data\raw\plantPathology2021\train_images\ec6bd8141cbb22ce.jpg
+data\raw\plantPathology2021\train_images\b56df0e2c98a4b0b.jpg
+data\raw\plantPathology2021\train_images\a9b711a0536eeb29.jpg
+data\raw\plantPathology2021\train_images\9783bb9285407f65.jpg
+data\raw\plantPathology2021\train_images\c7f00b736c8943b3.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0510.jpg
+data\raw\plantPathology2021\train_images\bce384c348763a37.jpg
+data\raw\plantPathology2021\train_images\853e51c63a9ed64c.jpg
+data\raw\plantPathology2021\train_images\e7a782e08b0f1f54.jpg
+data\raw\plantPathology2021\train_images\b4a19abc8af985d1.jpg
+data\raw\plantPathology2021\train_images\a9b116c36b47e307.jpg
+data\raw\plantPathology2021\train_images\d01c2d27b7922757.jpg
+data\raw\plantPathology2021\train_images\f010f28b873a3bd9.jpg
+data\raw\plantPathology2021\train_images\93bd7cc46464f511.jpg
+data\raw\plantPathology2021\train_images\f9c08ed8e03d90af.jpg
+data\raw\plantPathology2021\train_images\86dc97b0c163e2d3.jpg
+data\raw\plantPathology2021\train_images\85627f54c22dd66a.jpg
+data\raw\plantPathology2021\train_images\faa285e1ed450d0f.jpg
+data\raw\plantPathology2021\train_images\9fd182cb83257d2a.jpg
+data\raw\plantPathology2021\train_images\c4e1376523b66971.jpg
+data\raw\plantPathology2021\train_images\b14dc0eacf6aa615.jpg
+data\raw\plantPathology2021\train_images\d66a0b1639ff64c0.jpg
+data\raw\plantPathology2021\train_images\a8eb95c7d85e482a.jpg
+data\raw\plantPathology2021\train_images\a5a6b2d86d3417e2.jpg
+data\raw\plantPathology2021\train_images\b0dfa7548cda0dd0.jpg
+data\raw\plantPathology2021\train_images\f55a13990fa70267.jpg
+data\raw\plantPathology2021\train_images\ae8f122069711fb7.jpg
+data\raw\plantPathology2021\train_images\8d6b942ed235ca35.jpg
+data\raw\plantPathology2021\train_images\c59634d79725d183.jpg
+data\raw\plantPathology2021\train_images\b183de92d1381b6e.jpg
+data\raw\plantPathology2021\train_images\f57c924a9ac52995.jpg
+data\raw\plantPathology2021\train_images\b54bd839597082bd.jpg
+data\raw\plantPathology2021\train_images\bd20c3873fdc6832.jpg
+data\raw\plantPathology2021\train_images\f4fa861991093bec.jpg
+data\raw\plantPathology2021\train_images\e984c49aef3d54a1.jpg
+data\raw\plantPathology2021\train_images\d3a407fa4e23f09c.jpg
+data\raw\plantPathology2021\train_images\f671597434c672c8.jpg
+data\raw\plantPathology2021\train_images\d0124fdecf3838b1.jpg
+data\raw\plantPathology2021\train_images\a57b9b50dd12c239.jpg
+data\raw\plantPathology2021\train_images\8116dfcc0ccf6636.jpg
+data\raw\plantPathology2021\train_images\f4a390c7c1ae633c.jpg
+data\raw\plantPathology2021\train_images\c09f2d9834a9f2ec.jpg
+data\raw\plantPathology2021\train_images\f09c8fe11d83223f.jpg
+data\raw\plantPathology2021\train_images\cd9d94d2db01e07c.jpg
+data\raw\plantPathology2021\train_images\9588e71ccbba934c.jpg
+data\raw\plantPathology2021\train_images\d89469d136cd9678.jpg
+data\raw\plantPathology2021\train_images\82ba3e933947b097.jpg
+data\raw\plantPathology2021\train_images\d4484e8d7bd8b34a.jpg
+data\raw\plantPathology2021\train_images\bcb8c29f156969a2.jpg
+data\raw\plantPathology2021\train_images\be7ef6d45ac18401.jpg
+data\raw\plantPathology2021\train_images\fa87c28e9d5d2944.jpg
+data\raw\plantPathology2021\train_images\bc8d94cad7cb2b02.jpg
+data\raw\plantPathology2021\train_images\d4a430cc663792fe.jpg
+data\raw\plantPathology2021\train_images\ab03c135c7a5ad35.jpg
+data\raw\plantPathology2021\train_images\c59c9fce90e26c2c.jpg
+data\raw\plantPathology2021\train_images\e5d742694436d8cd.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0306.JPG
+data\raw\plantPathology2021\train_images\d2f963c30de464e8.jpg
+data\raw\plantPathology2021\train_images\8ca5a13c3653aee3.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0301.JPG
+data\raw\plantPathology2021\train_images\fcc43fe032fac206.jpg
+data\raw\plantPathology2021\train_images\ca361fce6abe00cc.jpg
+data\raw\plantPathology2021\train_images\889d3ff1b5430327.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0306.JPG
+data\raw\plantPathology2021\train_images\a880dc6756ed761c.jpg
+data\raw\plantPathology2021\train_images\8cf1f6de564e1508.jpg
+data\raw\plantPathology2021\train_images\e89f82785f091de1.jpg
+data\raw\plantPathology2021\train_images\e5bee048cb18de58.jpg
+data\raw\plantPathology2021\train_images\fcf0846bdd6294a4.jpg
+data\raw\plantPathology2021\train_images\80d32f977a83d0ea.jpg
+data\raw\plantPathology2021\train_images\a8b7854bcf25d02e.jpg
+data\raw\plantPathology2021\train_images\a7e613159fb22859.jpg
+data\raw\plantPathology2021\train_images\c4634d87a57e343c.jpg
+data\raw\plantPathology2021\train_images\b0cef3c5db4088f8.jpg
+data\raw\plantPathology2021\train_images\e481cfb71adc21b8.jpg
+data\raw\plantPathology2021\train_images\a2939d5865cde487.jpg
+data\raw\plantPathology2021\train_images\fd5080b2dd09a2fd.jpg
+data\raw\plantPathology2021\train_images\f4479262b5528cf9.jpg
+data\raw\plantPathology2021\train_images\b52722c11c4f7cf8.jpg
+data\raw\plantPathology2021\train_images\f2530b803ef4e0de.jpg
+data\raw\plantPathology2021\train_images\b86b027cc71ace39.jpg
+data\raw\plantPathology2021\train_images\c75392de6cea2a21.jpg
+data\raw\plantPathology2021\train_images\d561cd9815d6c42f.jpg
+data\raw\plantPathology2021\train_images\d5a2cac29d4a4d6d.jpg
+data\raw\plantPathology2021\train_images\b4a89ec89ababc15.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0317.JPG
+data\raw\plantPathology2021\train_images\fdc2bde10d847494.jpg
+data\raw\plantPathology2021\train_images\d99898db266ba865.jpg
+data\raw\plantPathology2021\train_images\a897c1eb48b65ba8.jpg
+data\raw\plantPathology2021\train_images\cc939795b5a5292a.jpg
+data\raw\plantPathology2021\train_images\b5aef6c1aa156922.jpg
+data\raw\plantPathology2021\train_images\f627c42687268f56.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0296.jpg
+data\raw\plantPathology2021\train_images\a6c2ab5d4aa3925b.jpg
+data\raw\plantPathology2021\train_images\9df9f477843c1640.jpg
+data\raw\plantPathology2021\train_images\d56fd3558906c938.jpg
+data\raw\plantPathology2021\train_images\b53b8733d03658d2.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0106.jpg
+data\raw\plantPathology2021\train_images\95076ec69f783a30.jpg
+data\raw\plantPathology2021\train_images\be8f90593134d3cc.jpg
+data\raw\plantPathology2021\train_images\fd85c4cb06c03e57.jpg
+data\raw\plantPathology2021\train_images\f1c1ce9acc9a845d.jpg
+data\raw\plantPathology2021\train_images\a8b076d41bdc31e6.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0502.jpg
+data\raw\plantPathology2021\train_images\ed499a86a53574e1.jpg
+data\raw\plantPathology2021\train_images\93ada7da8c9c905a.jpg
+data\raw\plantPathology2021\train_images\b73e3a42e9287370.jpg
+data\raw\plantPathology2021\train_images\d4dcce4646e0bd34.jpg
+data\raw\plantPathology2021\train_images\f4c68be071a3568d.jpg
+data\raw\plantPathology2021\train_images\b536d2f5612792c1.jpg
+data\raw\plantPathology2021\train_images\fe94b191b02d8ae6.jpg
+data\raw\plantPathology2021\train_images\cc0968589cbfb98d.jpg
+data\raw\plantPathology2021\train_images\e59398e692385fb0.jpg
+data\raw\plantPathology2021\train_images\f86f85951f9a7042.jpg
+data\raw\plantPathology2021\train_images\ff78c07e00052f9b.jpg
+data\raw\plantPathology2021\train_images\eeebd0c1d14183ad.jpg
+data\raw\plantPathology2021\train_images\8feed8d130af2258.jpg
+data\raw\plantPathology2021\train_images\eaa7c001157ffa0e.jpg
+data\raw\plantPathology2021\train_images\bd8ed6d4fa680161.jpg
+data\raw\plantPathology2021\train_images\a5c4a2d1ea4638ef.jpg
+data\raw\plantPathology2021\train_images\a06ab4a19f9d9959.jpg
+data\raw\plantPathology2021\train_images\80ee3116d267bae3.jpg
+data\raw\plantPathology2021\train_images\d02aca982f2f1e37.jpg
+data\raw\plantPathology2021\train_images\f7d0a0f802b3781f.jpg
+data\raw\plantPathology2021\train_images\ff22c28d99f0d312.jpg
+data\raw\plantPathology2021\train_images\a02cc3cfed653293.jpg
+data\raw\plantPathology2021\train_images\ff7ed080834b40db.jpg
+data\raw\plantPathology2021\train_images\a085c59e9ff86f40.jpg
+data\raw\plantPathology2021\train_images\b01fc36dcf2148f2.jpg
+data\raw\plantPathology2021\train_images\9f8e61371a3d3550.jpg
+data\raw\plantPathology2021\train_images\fcec849ac8523b1b.jpg
+data\raw\plantPathology2021\train_images\9741d1999fa06b47.jpg
+data\raw\plantPathology2021\train_images\d023c15f9eb8e1a9.jpg
+data\raw\plantPathology2021\train_images\ff331233da9091ca.jpg
+data\raw\plantPathology2021\train_images\bd97c3018037de35.jpg
+data\raw\plantPathology2021\train_images\b2fed0ea688e2c52.jpg
+data\raw\plantPathology2021\train_images\bc8355deab0c42f8.jpg
+data\raw\plantPathology2021\train_images\e01e42d90c66f3f3.jpg
+data\raw\plantPathology2021\train_images\d2855295df66646a.jpg
+data\raw\plantPathology2021\train_images\fafc1be0a5c5c205.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0508.jpg
+data\raw\plantPathology2021\train_images\f40685e2dec28aed.jpg
+data\raw\plantPathology2021\train_images\b381995fd87c5146.jpg
+data\raw\plantPathology2021\train_images\f817c77ac8118772.jpg
+data\raw\plantPathology2021\train_images\8d4abaa199759c6a.jpg
+data\raw\plantPathology2021\train_images\aa70703df786b047.jpg
+data\raw\plantPathology2021\train_images\eca4c53c9fe0a287.jpg
+data\raw\plantPathology2021\train_images\bc10a5b4dc15f1ec.jpg
+data\raw\plantPathology2021\train_images\eca213dbcb84a794.jpg
+data\raw\plantPathology2021\train_images\f22d06f28d6b9a45.jpg
+data\raw\plantPathology2021\train_images\c087309bc278efe6.jpg
+data\raw\plantPathology2021\train_images\c8e94bc36d1f109d.jpg
+data\raw\plantPathology2021\train_images\c0333bc3cb13b3d2.jpg
+data\raw\plantPathology2021\train_images\c1804d3e1f4eb64f.jpg
+data\raw\plantPathology2021\train_images\9fe9c28c28730e9e.jpg
+data\raw\plantPathology2021\train_images\fc35e5b8acf802e0.jpg
+data\raw\plantPathology2021\train_images\fd7b82b8c3cf8180.jpg
+data\raw\plantPathology2021\train_images\ff32821f4d34b4d0.jpg
+data\raw\plantPathology2021\train_images\a484c39f9fd861d8.jpg
+data\raw\plantPathology2021\train_images\de22c00ae5df626d.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0516.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0116.jpg
+data\raw\plantPathology2021\train_images\fe89eab04fd35012.jpg
+data\raw\plantPathology2021\train_images\80a9db3783f16366.jpg
+data\raw\plantPathology2021\train_images\fbbb22e65cc88948.jpg
+data\raw\plantPathology2021\train_images\ef8fca3c8200c0ff.jpg
+data\raw\plantPathology2021\train_images\802291cee9fec9f4.jpg
+data\raw\plantPathology2021\train_images\d32f6fc3d8c8a00e.jpg
+data\raw\plantPathology2021\train_images\a6caf2e69c24907b.jpg
+data\raw\plantPathology2021\train_images\c2ccaf86b8d9549a.jpg
+data\raw\plantPathology2021\train_images\8780b695d39cdf81.jpg
+data\raw\plantPathology2021\train_images\b55be3cccd85051a.jpg
+data\raw\plantPathology2021\train_images\c20e2ecadf2436da.jpg
+data\raw\plantPathology2021\train_images\d9a006e56cbae897.jpg
+data\raw\plantPathology2021\train_images\b0bfc17539984e86.jpg
+data\raw\plantPathology2021\train_images\fbd5966a08b17832.jpg
+data\raw\plantPathology2021\train_images\97bc38832d4ebc26.jpg
+data\raw\plantPathology2021\train_images\93b5a90abc1e4ca7.jpg
+data\raw\plantPathology2021\train_images\b5c6cc989a9a9371.jpg
+data\raw\plantPathology2021\train_images\b4778f21950f270b.jpg
+data\raw\plantPathology2021\train_images\a5bccc6c0ce4fc4c.jpg
+data\raw\plantPathology2021\train_images\9e31c0cbdc54d4b5.jpg
+data\raw\plantPathology2021\train_images\c198cf2f7a1f850a.jpg
+data\raw\plantPathology2021\train_images\c8a069971e3a653f.jpg
+data\raw\plantPathology2021\train_images\88ddc1bf69786162.jpg
+data\raw\plantPathology2021\train_images\b602d6e6487c3c9d.jpg
+data\raw\plantPathology2021\train_images\a0d2c0edc636563f.jpg
+data\raw\plantPathology2021\train_images\f7c6d290c2cfc48c.jpg
+data\raw\plantPathology2021\train_images\cd10d6dfdb9a880a.jpg
+data\raw\plantPathology2021\train_images\f41e8b86fbe33840.jpg
+data\raw\plantPathology2021\train_images\e8b8f8f58983c545.jpg
+data\raw\plantPathology2021\train_images\d7444c3a33ec1c9b.jpg
+data\raw\plantPathology2021\train_images\f48bc61f62444f4d.jpg
+data\raw\plantPathology2021\train_images\b424d0ff4f832437.jpg
+data\raw\plantPathology2021\train_images\bf6983943d3c3324.jpg
+data\raw\plantPathology2021\train_images\9e8ccf32f5425c85.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0304.JPG
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0337.JPG
+data\raw\plantPathology2021\train_images\e1b9c199938dd1c6.jpg
+data\raw\plantPathology2021\train_images\fc6d94c1c0cac3e3.jpg
+data\raw\plantPathology2021\train_images\b4a5e89a872d1c6e.jpg
+data\raw\plantPathology2021\train_images\8002cb321f8bfcdf.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0121.jpg
+data\raw\plantPathology2021\train_images\95c0c2d2b77a7a68.jpg
+data\raw\plantPathology2021\train_images\8f8fe24b80e21cb7.jpg
+data\raw\plantPathology2021\train_images\ad5ac0c1c5e96735.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0339.jpg
+data\raw\plantPathology2021\train_images\e1e422dd525277ac.jpg
+data\raw\plantPathology2021\train_images\9fb6c6dedac00306.jpg
+data\raw\plantPathology2021\train_images\a490e28f9b72656d.jpg
+data\raw\plantPathology2021\train_images\81e298f1dd872537.jpg
+data\raw\plantPathology2021\train_images\ceb3549483f06d4d.jpg
+data\raw\plantPathology2021\train_images\81de7a236437974a.jpg
+data\raw\plantPathology2021\train_images\f4f3193761c4a09e.jpg
+data\raw\plantPathology2021\train_images\aa85c07ac7f14dc3.jpg
+data\raw\plantPathology2021\train_images\f310039e54bbc1f5.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0332.JPG
+data\raw\plantPathology2021\train_images\c0a13f9fca159a71.jpg
+data\raw\plantPathology2021\train_images\dc080c7fd461df34.jpg
+data\raw\plantPathology2021\train_images\ffb084c28f4f30cc.jpg
+data\raw\plantPathology2021\train_images\f66dd0760d433e03.jpg
+data\raw\plantPathology2021\train_images\e0ee44c7173a3d32.jpg
+data\raw\plantPathology2021\train_images\e09ec40bb23eada9.jpg
+data\raw\plantPathology2021\train_images\e8f09fbb802035b7.jpg
+data\raw\plantPathology2021\train_images\fa6ed3c0d9dc9088.jpg
+data\raw\plantPathology2021\train_images\c09da53cc757427a.jpg
+data\raw\plantPathology2021\train_images\f69942d8212d31ef.jpg
+data\raw\plantPathology2021\train_images\85f562b5613a317c.jpg
+data\raw\plantPathology2021\train_images\8fe8be8196599169.jpg
+data\raw\plantPathology2021\train_images\c0b990f331677b4c.jpg
+data\raw\plantPathology2021\train_images\de9e08002cb77ff0.jpg
+data\raw\plantPathology2021\train_images\8625cac187c3dfd2.jpg
+data\raw\plantPathology2021\train_images\a96ad6979a939194.jpg
+data\raw\plantPathology2021\train_images\f26479778964a926.jpg
+data\raw\plantPathology2021\train_images\db62c5d826d912ad.jpg
+data\raw\plantPathology2021\train_images\e07c07e1e251d4f9.jpg
+data\raw\plantPathology2021\train_images\d76939c0e1c761e4.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0304.JPG
+data\raw\plantPathology2021\train_images\c09f3b9079dbd086.jpg
+data\raw\plantPathology2021\train_images\f917f8c4007f2c78.jpg
+data\raw\plantPathology2021\train_images\d3bfc1646610eea8.jpg
+data\raw\plantPathology2021\train_images\c3f2363f645652e0.jpg
+data\raw\plantPathology2021\train_images\a8b468ca9db79c0d.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0292.JPG
+data\raw\plantPathology2021\train_images\f987cce12f385074.jpg
+data\raw\plantPathology2021\train_images\b5a88ac56dbc2c6a.jpg
+data\raw\plantPathology2021\train_images\fd42c207c19ec43f.jpg
+data\raw\plantPathology2021\train_images\f542c9ab3b30e48e.jpg
+data\raw\plantPathology2021\train_images\be31c29e8d2c6953.jpg
+data\raw\plantPathology2021\train_images\a191cbc9ddac644e.jpg
+data\raw\plantPathology2021\train_images\f6f0c6921a7961c9.jpg
+data\raw\plantPathology2021\train_images\c3e995b03b526a87.jpg
+data\raw\plantPathology2021\train_images\91d16c74f62a3371.jpg
+data\raw\plantPathology2021\train_images\ff91c6f060bb3109.jpg
+data\raw\plantPathology2021\train_images\90c9ff43a98a54ae.jpg
+data\raw\plantPathology2021\train_images\eda5865ad2b48770.jpg
+data\raw\plantPathology2021\train_images\d8891858dafaeb23.jpg
+data\raw\plantPathology2021\train_images\f8a7cdb885b78051.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0100.jpg
+data\raw\plantPathology2021\train_images\96cbe6cdcf528442.jpg
+data\raw\plantPathology2021\train_images\90c9e9d1b7f021b6.jpg
+data\raw\plantPathology2021\train_images\e585859a1fbc50e5.jpg
+data\raw\plantPathology2021\train_images\af40f7ecc368c245.jpg
+data\raw\plantPathology2021\train_images\c336345e5e594e43.jpg
+data\raw\plantPathology2021\train_images\e95c4760cde49897.jpg
+data\raw\plantPathology2021\train_images\eb97d438aeeb0260.jpg
+data\raw\plantPathology2021\train_images\c5642ecaef1059cd.jpg
+data\raw\plantPathology2021\train_images\f1319981cf686d8e.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0114.jpg
+data\raw\plantPathology2021\train_images\958e956912b5a4be.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0320.JPG
+data\raw\plantPathology2021\train_images\a5de520f52ac9355.jpg
+data\raw\plantPathology2021\train_images\fed4966a684d0696.jpg
+data\raw\plantPathology2021\train_images\af9f979948682174.jpg
+data\raw\plantPathology2021\train_images\f1c4cb5a5a712176.jpg
+data\raw\plantPathology2021\train_images\a02ada655c67a967.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0511.jpg
+data\raw\plantPathology2021\train_images\b05f82db0a733837.jpg
+data\raw\plantPathology2021\train_images\f4b99bd1592c2564.jpg
+data\raw\plantPathology2021\train_images\b6a5921faf42e1b0.jpg
+data\raw\plantPathology2021\train_images\f1c434138ceb6a8f.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0336.jpg
+data\raw\plantPathology2021\train_images\bf22f63ed33ac010.jpg
+data\raw\plantPathology2021\train_images\d03fe072c99b26cc.jpg
+data\raw\plantPathology2021\train_images\eee49682c93eb138.jpg
+data\raw\plantPathology2021\train_images\e0a59acbe9c43396.jpg
+data\raw\plantPathology2021\train_images\fc9692c95bc8c4aa.jpg
+data\raw\plantPathology2021\train_images\b085979f89e89559.jpg
+data\raw\plantPathology2021\train_images\94f4d5869bb490f8.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0322.jpg
+data\raw\plantPathology2021\train_images\f47992972d24f868.jpg
+data\raw\plantPathology2021\train_images\fab4498bcc2c3eb0.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0501.jpg
+data\raw\plantPathology2021\train_images\b2a6eb5f25a2a452.jpg
+data\raw\plantPathology2021\train_images\c76a2f9e815a45e8.jpg
+data\raw\plantPathology2021\train_images\96f13a920dc7a19b.jpg
+data\raw\plantPathology2021\train_images\9f9991372aa97321.jpg
+data\raw\plantPathology2021\train_images\c080c3d71f70f93b.jpg
+data\raw\plantPathology2021\train_images\e8e28344970f9c3f.jpg
+data\raw\plantPathology2021\train_images\c06bbd9465f168a9.jpg
+data\raw\plantPathology2021\train_images\e1bed6c318c30fe0.jpg
+data\raw\plantPathology2021\train_images\a0fe22e4a7d78781.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0391.jpg
+data\raw\plantPathology2021\train_images\b0e0cf9f9e98e188.jpg
+data\raw\plantPathology2021\train_images\9894ad9bae345365.jpg
+data\raw\plantPathology2021\train_images\eb2245c2cbcb331d.jpg
+data\raw\plantPathology2021\train_images\aae8958c56ae54b5.jpg
+data\raw\plantPathology2021\train_images\97026ab5b2176957.jpg
+data\raw\plantPathology2021\train_images\f8f8e9e49b850c43.jpg
+data\raw\plantPathology2021\train_images\ea31e0d14a13ee9d.jpg
+data\raw\plantPathology2021\train_images\b49c834f8d86f1e1.jpg
+data\raw\plantPathology2021\train_images\a16df491eac29cc9.jpg
+data\raw\plantPathology2021\train_images\85d42cce0e8ddc6d.jpg
+data\raw\plantPathology2021\train_images\f0a6cfda4bcc1384.jpg
+data\raw\plantPathology2021\train_images\94b42695f24dad36.jpg
+data\raw\plantPathology2021\train_images\91ec8300ed2d75d7.jpg
+data\raw\plantPathology2021\train_images\c04692ad3f78c793.jpg
+data\raw\plantPathology2021\train_images\8bef10f40efa0a59.jpg
+data\raw\plantPathology2021\train_images\fabb86521e27e184.jpg
+data\raw\plantPathology2021\train_images\ee38d05f98429b4e.jpg
+data\raw\plantPathology2021\train_images\90e3f81747ee2495.jpg
+data\raw\plantPathology2021\train_images\8ad11d7dec22d923.jpg
+data\raw\plantPathology2021\train_images\99da488e2f27626b.jpg
+data\raw\plantPathology2021\train_images\f81ee428bf92035e.jpg
+data\raw\plantPathology2021\train_images\b467c61e1cb3634c.jpg
+data\raw\plantPathology2021\train_images\cfb8cec59888173c.jpg
+data\raw\plantPathology2021\train_images\dba5200f708bdf2c.jpg
+data\raw\plantPathology2021\train_images\ada7c4b3c469887a.jpg
+data\raw\plantPathology2021\train_images\bcf0c2950f55da29.jpg
+data\raw\plantPathology2021\train_images\b39f8081dee76306.jpg
+data\raw\plantPathology2021\train_images\b109d8d2cedb86e2.jpg
+data\raw\plantPathology2021\train_images\9c9e9acc643243eb.jpg
+data\raw\plantPathology2021\train_images\ada289cbce9a6649.jpg
+data\raw\plantPathology2021\train_images\b0c0d4943de3676e.jpg
+data\raw\plantPathology2021\train_images\e0ee9eb920e5a0b5.jpg
+data\raw\plantPathology2021\train_images\c9e5e7cc99b8830a.jpg
+data\raw\plantPathology2021\train_images\8b4f631bd3d89283.jpg
+data\raw\plantPathology2021\train_images\a5e5db6960b4c683.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0119.jpg
+data\raw\plantPathology2021\train_images\b2aa71ebc7dac480.jpg
+data\raw\plantPathology2021\train_images\90b5d0fb4f3e22d0.jpg
+data\raw\plantPathology2021\train_images\c4dad3b3b4852867.jpg
+data\raw\plantPathology2021\train_images\b4e4c31a50fb59c5.jpg
+data\raw\plantPathology2021\train_images\91f2b9c1036d7f81.jpg
+data\raw\plantPathology2021\train_images\ccfbb5b9407b3090.jpg
+data\raw\plantPathology2021\train_images\9792cb5b859d448d.jpg
+data\raw\plantPathology2021\train_images\a2e43784d2cf17c6.jpg
+data\raw\plantPathology2021\train_images\eab083129d8f1dbc.jpg
+data\raw\plantPathology2021\train_images\a041c7ad9ab4dbd2.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0101.jpg
+data\raw\plantPathology2021\train_images\a5f9cd281e1934ea.jpg
+data\raw\plantPathology2021\train_images\9eb2ecd9c5c1a306.jpg
+data\raw\plantPathology2021\train_images\92a2438695cfa7f4.jpg
+data\raw\plantPathology2021\train_images\b4a55b452dadf209.jpg
+data\raw\plantPathology2021\train_images\dd8e5821c3cb9396.jpg
+data\raw\plantPathology2021\train_images\a1e9e8bd0f3e1690.jpg
+data\raw\plantPathology2021\train_images\c1ef2bda60292537.jpg
+data\raw\plantPathology2021\train_images\83e277c32b81b91e.jpg
+data\raw\plantPathology2021\train_images\e26d9782451b743b.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0329.jpg
+data\raw\plantPathology2021\train_images\fa108f246b1ceb1e.jpg
+data\raw\plantPathology2021\train_images\933d71cb1ea08d47.jpg
+data\raw\plantPathology2021\train_images\f59ac4019c0f73bc.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0507.jpg
+data\raw\plantPathology2021\train_images\e4d6c63746ca24cb.jpg
+data\raw\plantPathology2021\train_images\f8e67b39cd0cdc00.jpg
+data\raw\plantPathology2021\train_images\b68417a69acc9b9c.jpg
+data\raw\plantPathology2021\train_images\ab1aba9145358b5b.jpg
+data\raw\plantPathology2021\train_images\f4a0a29727e8172f.jpg
+data\raw\plantPathology2021\train_images\b05f943568c2f599.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0328.jpg
+data\raw\plantPathology2021\train_images\b06ed2a49bb694b1.jpg
+data\raw\plantPathology2021\train_images\d881fa0ed9c833dc.jpg
+data\raw\plantPathology2021\train_images\aec7d49a1a4a6b25.jpg
+data\raw\plantPathology2021\train_images\951f63af3c3052d4.jpg
+data\raw\plantPathology2021\train_images\ebc9819893fc12d6.jpg
+data\raw\plantPathology2021\train_images\b2a1478e59eb3b05.jpg
+data\raw\plantPathology2021\train_images\a0b8cdd5d6f94149.jpg
+data\raw\plantPathology2021\train_images\a5a39117d90e593d.jpg
+data\raw\plantPathology2021\train_images\f421cac58f0e2d9e.jpg
+data\raw\plantPathology2021\train_images\f4899b69417667d0.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0315.jpg
+data\raw\plantPathology2021\train_images\bb85c71e6903c7a4.jpg
+data\raw\plantPathology2021\train_images\bb1ce326ccb92645.jpg
+data\raw\plantPathology2021\train_images\b0e78f883a1cd14f.jpg
+data\raw\plantPathology2021\train_images\a5879fdad880eca8.jpg
+data\raw\plantPathology2021\train_images\968f2675e848cdc9.jpg
+data\raw\plantPathology2021\train_images\da4cf23021797dc9.jpg
+data\raw\plantPathology2021\train_images\cf9374cc7a0c6e0c.jpg
+data\raw\plantPathology2021\train_images\94c83b2d5fad6924.jpg
+data\raw\plantPathology2021\train_images\daa8c2f5cf32c930.jpg
+data\raw\plantPathology2021\train_images\c5dd359660ef0299.jpg
+data\raw\plantPathology2021\train_images\92a58ade0de5278e.jpg
+data\raw\plantPathology2021\train_images\f144e01f769a63e2.jpg
+data\raw\plantPathology2021\train_images\f1ab5eb06d8438a6.jpg
+data\raw\plantPathology2021\train_images\f670687e24c04bed.jpg
+data\raw\plantPathology2021\train_images\cec684eed5252a1d.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0308.JPG
+data\raw\plantPathology2021\train_images\e849977f48c31d89.jpg
+data\raw\plantPathology2021\train_images\b4b0c6284ee1a7cf.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0295.JPG
+data\raw\plantPathology2021\train_images\e3e065e07a996d0e.jpg
+data\raw\plantPathology2021\train_images\a17c9256abb7350a.jpg
+data\raw\plantPathology2021\train_images\bc7388f2070f7236.jpg
+data\raw\plantPathology2021\train_images\818a4bcfdb78385c.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0302.JPG
+data\raw\plantPathology2021\train_images\eba035974baa8566.jpg
+data\raw\plantPathology2021\train_images\e143c3dc78704757.jpg
+data\raw\plantPathology2021\train_images\baf0d7c0ca1fdd00.jpg
+data\raw\plantPathology2021\train_images\e0f6c7bd12a401cf.jpg
+data\raw\plantPathology2021\train_images\f86c97703b376098.jpg
+data\raw\plantPathology2021\train_images\f2d0c0c70e373ed1.jpg
+data\raw\plantPathology2021\train_images\a36ecbe53c81a40f.jpg
+data\raw\plantPathology2021\train_images\ffd4c5088f4605a7.jpg
+data\raw\plantPathology2021\train_images\e59797c24276026f.jpg
+data\raw\plantPathology2021\train_images\aa6a97960f9037e4.jpg
+data\raw\plantPathology2021\train_images\b1711ad0e56e0f0f.jpg
+data\raw\plantPathology2021\train_images\a0c6cfdd98f0407d.jpg
+data\raw\plantPathology2021\train_images\bcaada046ab023fb.jpg
+data\raw\plantPathology2021\train_images\85d0e1b0ea59b72e.jpg
+data\raw\plantPathology2021\train_images\e26ac5c59218e9cf.jpg
+data\raw\plantPathology2021\train_images\a99471cdb22da5e2.jpg
+data\raw\plantPathology2021\train_images\d4e8c6d7319e1334.jpg
+data\raw\plantPathology2021\train_images\c0b6cd571cfb021b.jpg
+data\raw\plantPathology2021\train_images\a390d52dcae7709c.jpg
+data\raw\plantPathology2021\train_images\c5181a6327e7d83d.jpg
+data\raw\plantPathology2021\train_images\b4b6d2c96dad4066.jpg
+data\raw\plantPathology2021\train_images\9af86cc0e38dd156.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0323.JPG
+data\raw\plantPathology2021\train_images\f59f4a4a74ee0161.jpg
+data\raw\plantPathology2021\train_images\a3c3c0633ec1793d.jpg
+data\raw\plantPathology2021\train_images\f230939f0d78bc25.jpg
+data\raw\plantPathology2021\train_images\c5b72c2a24924df7.jpg
+data\raw\plantPathology2021\train_images\ca782c131f5ce0fc.jpg
+data\raw\plantPathology2021\train_images\fee4c2e29b0f121a.jpg
+data\raw\plantPathology2021\train_images\ada395c75ad65212.jpg
+data\raw\plantPathology2021\train_images\a8c27797c349c8e6.jpg
+data\raw\plantPathology2021\train_images\a0786f831db76269.jpg
+data\raw\plantPathology2021\train_images\9c6cd46dadc86c98.jpg
+data\raw\plantPathology2021\train_images\b4e634c169636d71.jpg
+data\raw\plantPathology2021\train_images\aab6cd72ac6a2938.jpg
+data\raw\plantPathology2021\train_images\b2afc6117171e5c1.jpg
+data\raw\plantPathology2021\train_images\a1cec1de0bc37c07.jpg
+data\raw\plantPathology2021\train_images\c8c03ddfeb881f09.jpg
+data\raw\plantPathology2021\train_images\8ceaba5894836ee9.jpg
+data\raw\plantPathology2021\train_images\80bc2cd4f322babe.jpg
+data\raw\plantPathology2021\train_images\c3877ad5e0c0e44f.jpg
+data\raw\plantPathology2021\train_images\86f963a16e70345e.jpg
+data\raw\plantPathology2021\train_images\a7d5ca94958b38c5.jpg
+data\raw\plantPathology2021\train_images\fd2ac19b469d1ab0.jpg
+data\raw\plantPathology2021\train_images\fd77c1db682d0520.jpg
+data\raw\plantPathology2021\train_images\f781e82697b60273.jpg
+data\raw\plantPathology2021\train_images\e52d5aa65294b578.jpg
+data\raw\plantPathology2021\train_images\dbe1c32a2d153e2c.jpg
+data\raw\plantPathology2021\train_images\c0cc3188dcad5fd5.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0319.jpg
+data\raw\plantPathology2021\train_images\9be1c58a1ab5614f.jpg
+data\raw\plantPathology2021\train_images\87d48901edcfc3c3.jpg
+data\raw\plantPathology2021\train_images\db838bc1d8432be3.jpg
+data\raw\plantPathology2021\train_images\e9a7c1cb2c8918f9.jpg
+data\raw\plantPathology2021\train_images\d3b527cb602cdb18.jpg
+data\raw\plantPathology2021\train_images\8e8364d9964b6af4.jpg
+data\raw\plantPathology2021\train_images\8382e784dfe6c836.jpg
+data\raw\plantPathology2021\train_images\90403dfe783db658.jpg
+data\raw\plantPathology2021\train_images\e5909e47616339b9.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0113.jpg
+data\raw\plantPathology2021\train_images\a5c0b7d65aba6912.jpg
+data\raw\plantPathology2021\train_images\9d3065c3d60e23de.jpg
+data\raw\plantPathology2021\train_images\bd05f0ca41c93d6b.jpg
+data\raw\plantPathology2021\train_images\83e9129f948c5de5.jpg
+data\raw\plantPathology2021\train_images\b4b6874f497da700.jpg
+data\raw\plantPathology2021\train_images\c0c75c137efdc221.jpg
+data\raw\plantPathology2021\train_images\c420c4e25f6f3d87.jpg
+data\raw\plantPathology2021\train_images\d5cea09688d65db2.jpg
+data\raw\plantPathology2021\train_images\a86f5ad238666dc2.jpg
+data\raw\plantPathology2021\train_images\d76b5bd2078f0948.jpg
+data\raw\plantPathology2021\train_images\f2b04abc9e4a9d52.jpg
+data\raw\plantPathology2021\train_images\acc2c6adc9a8aee8.jpg
+data\raw\plantPathology2021\train_images\8fe052170f4385fd.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0301.JPG
+data\raw\plantPathology2021\train_images\f8278d078975f0d4.jpg
+data\raw\plantPathology2021\train_images\bd25252ff090b9e8.jpg
+data\raw\plantPathology2021\train_images\aaf45b4d5165ac58.jpg
+data\raw\plantPathology2021\train_images\f39913d6da357408.jpg
+data\raw\plantPathology2021\train_images\b095893ab6533ab9.jpg
+data\raw\plantPathology2021\train_images\87e53a22ef6151b8.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0514.jpg
+data\raw\plantPathology2021\train_images\a1459f8899d719ae.jpg
+data\raw\plantPathology2021\train_images\bf7e9ec08081f9c2.jpg
+data\raw\plantPathology2021\train_images\f48dd51b4e2d0f44.jpg
+data\raw\plantPathology2021\train_images\833caa43cd6a56b6.jpg
+data\raw\plantPathology2021\train_images\fa5e87e2386c86c2.jpg
+data\raw\plantPathology2021\train_images\fab6c09b8d989c64.jpg
+data\raw\plantPathology2021\train_images\a52bdfd2504b0cbc.jpg
+data\raw\plantPathology2021\train_images\a0b1904bdf25de96.jpg
+data\raw\plantPathology2021\train_images\b676e0c70287dfa0.jpg
+data\raw\plantPathology2021\train_images\a187da51ddb82c3a.jpg
+data\raw\plantPathology2021\train_images\daaecb825076671a.jpg
+data\raw\plantPathology2021\train_images\b834c0d0c39e4fde.jpg
+data\raw\plantPathology2021\train_images\80fac59d5be8a0e5.jpg
+data\raw\plantPathology2021\train_images\e156a1cc25ad8797.jpg
+data\raw\plantPathology2021\train_images\ded57ce32063350a.jpg
+data\raw\plantPathology2021\train_images\d8e06ac4bf4f5115.jpg
+data\raw\plantPathology2021\train_images\e8a6c086dfed2d09.jpg
+data\raw\plantPathology2021\train_images\85cb3b21f8adc156.jpg
+data\raw\plantPathology2021\train_images\f08087bc8fa18ff8.jpg
+data\raw\plantPathology2021\train_images\b5394551dd25eb50.jpg
+data\raw\plantPathology2021\train_images\877a90abdd0e6698.jpg
+data\raw\plantPathology2021\train_images\ca8ad6f11b85c7c2.jpg
+data\raw\plantPathology2021\train_images\ded0a0c1e3b2fd03.jpg
+data\raw\plantPathology2021\train_images\eaef9794aada0015.jpg
+data\raw\plantPathology2021\train_images\e8d9c3275a389a6a.jpg
+data\raw\plantPathology2021\train_images\c9543b92c3cacf16.jpg
+data\raw\plantPathology2021\train_images\8516724aa1d5fb55.jpg
+data\raw\plantPathology2021\train_images\8bc6b07f365e4318.jpg
+data\raw\plantPathology2021\train_images\f0638f1f3f824386.jpg
+data\raw\plantPathology2021\train_images\f83287b19437ba1a.jpg
+data\raw\plantPathology2021\train_images\a4829bcdef14c617.jpg
+data\raw\plantPathology2021\train_images\d2fb7286221e969c.jpg
+data\raw\plantPathology2021\train_images\d56e6ac133d212ab.jpg
+data\raw\plantPathology2021\train_images\db9bc1fa24111c9d.jpg
+data\raw\plantPathology2021\train_images\ad93f5c1d26d48a4.jpg
+data\raw\plantPathology2021\train_images\9c968ac989ed332e.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0100.jpg
+data\raw\plantPathology2021\train_images\afa0d4fc8a7aec20.jpg
+data\raw\plantPathology2021\train_images\91aa99c1c877e0bd.jpg
+data\raw\plantPathology2021\train_images\c7e567c9cd053898.jpg
+data\raw\plantPathology2021\train_images\e0a8d0ebd93be11a.jpg
+data\raw\plantPathology2021\train_images\d3b089e760db2f06.jpg
+data\raw\plantPathology2021\train_images\a1cd9798003b6f8f.jpg
+data\raw\plantPathology2021\train_images\f9e6dd41288a2778.jpg
+data\raw\plantPathology2021\train_images\8a1ef092b3b6a6d2.jpg
+data\raw\plantPathology2021\train_images\94efca2b542635d2.jpg
+data\raw\plantPathology2021\train_images\85897ea7f064b26a.jpg
+data\raw\plantPathology2021\train_images\e55a8a699de19871.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0293.JPG
+data\raw\plantPathology2021\train_images\ad0eda613e86399a.jpg
+data\raw\plantPathology2021\train_images\99328b5ab598eca6.jpg
+data\raw\plantPathology2021\train_images\c0ff18bfb811e503.jpg
+data\raw\plantPathology2021\train_images\eec2cb6b2d043d64.jpg
+data\raw\plantPathology2021\train_images\a7b2da2f66b04866.jpg
+data\raw\plantPathology2021\train_images\fa07905acbe1c54b.jpg
+data\raw\plantPathology2021\train_images\82c68b8f671a9ed2.jpg
+data\raw\plantPathology2021\train_images\c2656b8b398a3727.jpg
+data\raw\plantPathology2021\train_images\f80781cadb97e944.jpg
+data\raw\plantPathology2021\train_images\b586c89971656697.jpg
+data\raw\plantPathology2021\train_images\93af6f802c847ec6.jpg
+data\raw\plantPathology2021\train_images\a9e1cd8d8795e189.jpg
+data\raw\plantPathology2021\train_images\e9dad6c5295f00b4.jpg
+data\raw\plantPathology2021\train_images\cfa0545ea175724b.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0115.jpg
+data\raw\plantPathology2021\train_images\a4d561c79a8abaa5.jpg
+data\raw\plantPathology2021\train_images\e5f012f3da61113b.jpg
+data\raw\plantPathology2021\train_images\afc5f08512573b4a.jpg
+data\raw\plantPathology2021\train_images\c1c6b16eb5a4372c.jpg
+data\raw\plantPathology2021\train_images\a56292dadb618d95.jpg
+data\raw\plantPathology2021\train_images\e1dee4124f2155b3.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0513.jpg
+data\raw\plantPathology2021\train_images\b597d0978072cab5.jpg
+data\raw\plantPathology2021\train_images\e529adb8c61cca5c.jpg
+data\raw\plantPathology2021\train_images\a8dbcb8c3125269f.jpg
+data\raw\plantPathology2021\train_images\d3a907db6c127782.jpg
+data\raw\plantPathology2021\train_images\c7d07f6865147668.jpg
+data\raw\plantPathology2021\train_images\a896927c68b5c1be.jpg
+data\raw\plantPathology2021\train_images\875aeabdcc838aa1.jpg
+data\raw\plantPathology2021\train_images\a1959cc092a3fb73.jpg
+data\raw\plantPathology2021\train_images\baa2ddb051246bb5.jpg
+data\raw\plantPathology2021\train_images\b08dcfe2e4c2a758.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0325.JPG
+data\raw\plantPathology2021\train_images\f45ba2c59daa3033.jpg
+data\raw\plantPathology2021\train_images\cb927f8cc06cd952.jpg
+data\raw\plantPathology2021\train_images\a8c195933f2f854d.jpg
+data\raw\plantPathology2021\train_images\d17066c7fd242d0d.jpg
+data\raw\plantPathology2021\train_images\c91fb33e1dc024cb.jpg
+data\raw\plantPathology2021\train_images\c19e789a0ebe2ad1.jpg
+data\raw\plantPathology2021\train_images\df3b8800e2f892fa.jpg
+data\raw\plantPathology2021\train_images\ddba21d2a1257aa6.jpg
+data\raw\plantPathology2021\train_images\e5aeaec4ad0eba10.jpg
+data\raw\plantPathology2021\train_images\d20a299a3dc5d7d4.jpg
+data\raw\plantPathology2021\train_images\9585da92b9b9495a.jpg
+data\raw\plantPathology2021\train_images\acf89cc5d5a5029d.jpg
+data\raw\plantPathology2021\train_images\b4aed33a8323cc4b.jpg
+data\raw\plantPathology2021\train_images\dcc0c38eafa4a719.jpg
+data\raw\plantPathology2021\train_images\81fe9b4574382c3e.jpg
+data\raw\plantPathology2021\train_images\e5931b592d3421bd.jpg
+data\raw\plantPathology2021\train_images\d8539e63dd110b99.jpg
+data\raw\plantPathology2021\train_images\c3c5f53457aa2a51.jpg
+data\raw\plantPathology2021\train_images\e9c18f9eb8516d05.jpg
+data\raw\plantPathology2021\train_images\a585c19e14f895de.jpg
+data\raw\plantPathology2021\train_images\f8b6c08387c707ce.jpg
+data\raw\plantPathology2021\train_images\8222954dabf46ad7.jpg
+data\raw\plantPathology2021\train_images\d6b636d2096d6c2c.jpg
+data\raw\plantPathology2021\train_images\821d7a1a16fafd48.jpg
+data\raw\plantPathology2021\train_images\e055bac5ff241b12.jpg
+data\raw\plantPathology2021\train_images\e13fd2d0c5602d67.jpg
+data\raw\plantPathology2021\train_images\edb3da49a331388c.jpg
+data\raw\plantPathology2021\train_images\c130c0c99cb33f6f.jpg
+data\raw\plantPathology2021\train_images\abc5bccad548b261.jpg
+data\raw\plantPathology2021\train_images\a5d09a8f0d6e368b.jpg
+data\raw\plantPathology2021\train_images\afe8e0a0e7d70a91.jpg
+data\raw\plantPathology2021\train_images\f137c8269fa812ea.jpg
+data\raw\plantPathology2021\train_images\c67a01efc3374b60.jpg
+data\raw\plantPathology2021\train_images\bfc293d993195858.jpg
+data\raw\plantPathology2021\train_images\f43876d5914d6919.jpg
+data\raw\plantPathology2021\train_images\94303bde667383c3.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0305.JPG
+data\raw\plantPathology2021\train_images\90b10bc0dc677eb3.jpg
+data\raw\plantPathology2021\train_images\8a954b82bf81f2bc.jpg
+data\raw\plantPathology2021\train_images\86b93283f8e4a7f0.jpg
+data\raw\plantPathology2021\train_images\95b26bc2b14372e5.jpg
+data\raw\plantPathology2021\train_images\aec2f4c91fb42970.jpg
+data\raw\plantPathology2021\train_images\a2c0c789ee353769.jpg
+data\raw\plantPathology2021\train_images\9d6e997acc886586.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0112.jpg
+data\raw\plantPathology2021\train_images\ceb6b4cbf4a00b83.jpg
+data\raw\plantPathology2021\train_images\baa889ec267a5e1c.jpg
+data\raw\plantPathology2021\train_images\a9d992642cd69cd3.jpg
+data\raw\plantPathology2021\train_images\82923f3ad03ab4f6.jpg
+data\raw\plantPathology2021\train_images\aebfd6b942209643.jpg
+data\raw\plantPathology2021\train_images\b498824ddd3cf236.jpg
+data\raw\plantPathology2021\train_images\999381af5a507557.jpg
+data\raw\plantPathology2021\train_images\a5c08583969b7af9.jpg
+data\raw\plantPathology2021\train_images\ede1c133cd38c938.jpg
+data\raw\plantPathology2021\train_images\a8e1c6d71de86907.jpg
+data\raw\plantPathology2021\train_images\f0f847c9cd5d8644.jpg
+data\raw\plantPathology2021\train_images\fead8b83cb6a2490.jpg
+data\raw\plantPathology2021\train_images\8d7738de63c21638.jpg
+data\raw\plantPathology2021\train_images\b688c7b40b347ab5.jpg
+data\raw\plantPathology2021\train_images\964f73349852e569.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0113.jpg
+data\raw\plantPathology2021\train_images\af8d425715a535c5.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Brown spot\DSC_0107.jpg
+data\raw\plantPathology2021\train_images\b5b2f8855aa3b84a.jpg
+data\raw\plantPathology2021\train_images\89cf47e1ba7046a9.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0500.jpg
+data\raw\plantPathology2021\train_images\fe28c2f085817b8f.jpg
+data\raw\plantPathology2021\train_images\b42b80b74faa34cb.jpg
+data\raw\plantPathology2021\train_images\a1ac3398e1cc87cf.jpg
+data\raw\plantPathology2021\train_images\8d5af4a1b346b0e5.jpg
+data\raw\plantPathology2021\train_images\8f42b47a59c4e9cc.jpg
+data\raw\plantPathology2021\train_images\83c33e1d37c8b748.jpg
+data\raw\plantPathology2021\train_images\f09a9f50e82e6b25.jpg
+data\raw\plantPathology2021\train_images\b66f83d08c91a89f.jpg
+data\raw\riceLeafDisease\rice_leaf_diseases\Leaf smut\DSC_0318.JPG
+data\raw\plantPathology2021\train_images\d69357569a03ea8a.jpg

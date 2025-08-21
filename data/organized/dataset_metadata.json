@@ -1,0 +1,49 @@
+{
+  "datasets": {
+    "new_diseases": "data\\raw\\new_plant_disease_dataset\\New Plant Diseases Dataset(Augmented)\\New Plant Diseases Dataset(Augmented)",
+    "plantvillage": "data\\raw\\PlantVillage",
+    "plant_path_2020": "data\\raw\\plantPathology",
+    "plant_path_2021": "data\\raw\\plantPathology2021",
+    "potato_viral": "data\\raw\\potato_viral",
+    "rice_bacterial": "data\\raw\\riceLeafDisease\\rice_leaf_diseases"
+  },
+  "target_classes": [
+    "healthy",
+    "blight",
+    "leaf_spot",
+    "powdery_mildew",
+    "mosaic_virus",
+    "unknown"
+  ],
+  "statistics": {
+    "new_diseases": {
+      "leaf_spot": 48204,
+      "healthy": 44588,
+      "powdery_mildew": 6838,
+      "blight": 26212,
+      "unknown": 7246,
+      "mosaic_virus": 7502
+    },
+    "plantvillage": {
+      "leaf_spot": 1994,
+      "healthy": 3258,
+      "blight": 4000,
+      "unknown": 32020
+    },
+    "plant_path_2020": {
+      "leaf_spot": 1600,
+      "healthy": 800,
+      "unknown": 200,
+      "blight": 1051
+    },
+    "rice_bacterial": {
+      "blight": 80,
+      "unknown": 160
+    },
+    "potato_viral": {
+      "healthy": 270,
+      "mosaic_virus": 2556
+    }
+  },
+  "total_images": 188579
+}
